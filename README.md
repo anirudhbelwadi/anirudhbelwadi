@@ -27,6 +27,11 @@ Music has been a part my of life since childhood and will be swan song. It has e
 - App Development GDP (GSTians Development Program) of SIES Graduate School of Technology
 - Web Development GDP (GSTians Development Program) of SIES Graduate School of Technology
 
+## Volunteer Experience
+- Fundraising for [Bamanwada project](https://lnkd.in/gN8_KBu)
+- Event head of Tug of Event of Cognition 2019 (the annual technical and sports fest of SIES Graduate School of Technology)
+- Core member (Class Representative) of [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/)
+
 ## Quick Links
 - [Resume](https://anirudhbelwadi.github.io/Resume-Anirudh-Belwadi.pdf)<br>
 - [Linkedin](https://www.linkedin.com/in/anirudh-belwadi-7a8707182/)<br>
