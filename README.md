@@ -28,8 +28,8 @@ Music has been a part my of life since childhood and will be swan song. It has e
 - Web Development GDP (GSTians Development Program) of SIES Graduate School of Technology
 
 ## Quick Links
-[Resume](https://anirudhbelwadi.github.io/Resume-Anirudh-Belwadi.pdf)<br>
-[Linkedin](https://www.linkedin.com/in/anirudh-belwadi-7a8707182/)<br>
-[Instagram](https://www.instagram.com/believed_it_after_clicking_it/)<br>
-[YouTube](https://www.youtube.com/channel/UC-cy4jShw808hNtrwucrI-Q)<br>
-[Twitter](https://twitter.com/BelwadiAnirudh)<br>
+- [Resume](https://anirudhbelwadi.github.io/Resume-Anirudh-Belwadi.pdf)<br>
+- [Linkedin](https://www.linkedin.com/in/anirudh-belwadi-7a8707182/)<br>
+- [Instagram](https://www.instagram.com/believed_it_after_clicking_it/)<br>
+- [YouTube](https://www.youtube.com/channel/UC-cy4jShw808hNtrwucrI-Q)<br>
+- [Twitter](https://twitter.com/BelwadiAnirudh)<br>
