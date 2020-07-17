@@ -18,12 +18,6 @@ Music has been a part my of life since childhood and will be swan song. It has e
 - [HaleAI](https://www.linkedin.com/company/hale-ai/)
 - [Collaboration Photography series](https://www.instagram.com/believed_it_after_clicking_it/)
 
-## Fluent in
-- English
-- Hindi
-- Kannada
-- Marathi
-
 ## Part of
 - Aaroha (Music club of SIES Graduate School of Technology)
 - App Development GDP (GSTians Development Program) of SIES Graduate School of Technology
