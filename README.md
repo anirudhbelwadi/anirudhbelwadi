@@ -32,8 +32,8 @@ Music has been a part my of life since childhood and will be swan song. It has e
 - Event head of Tug of Event of Cognition 2019 (the annual technical and sports fest of SIES Graduate School of Technology)
 - Core member (Class Representative) of [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/)
 
-<div align="center">
 ## Quick Links
+<div align="center">
 <a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/anirudh.belwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/believed_it_after_clicking_it/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
