@@ -1,12 +1,7 @@
 # Anirudh Srinath Belwadi
-<html>
-<img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300" usemap="#profmap">
-<map name="profmap">
-  <area shape="rect" coords="0,0,150,150" alt="Photography" href="https://www.instagram.com/believed_it_after_clicking_it/">
-  <area shape="rect" coords="150,0,300,150" alt="Music" href="https://www.youtube.com/channel/UC-cy4jShw808hNtrwucrI-Q">
-  <area shape="rect" coords="0,150,300,300" alt="LinkedIn" href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/">
-</map>
-</html>
+
+<img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300">
+
 ## About myself
 Engineer | Musician | Singer | Social Activist
 
