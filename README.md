@@ -1,6 +1,7 @@
 # Anirudh Srinath Belwadi
 
 <img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300">
+
 ## About myself
 Engineer | Musician | Singer | Social Activist
 
