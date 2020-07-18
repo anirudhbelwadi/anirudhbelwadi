@@ -1,6 +1,6 @@
 # Anirudh Srinath Belwadi
 
-<img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300">
+<a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
 
 ## About myself
 Engineer | Musician | Singer | Social Activist
