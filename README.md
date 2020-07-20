@@ -30,7 +30,7 @@ Music has been a part my of life since childhood and will be swan song. It has e
 
 ## Quick Links
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/blob/master/Resume-Anirudh-Belwadi.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
+<a href="https://anirudhbelwadi/Resume-Anirudh-Srinath-Belwadi.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/believed_it_after_clicking_it/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC-cy4jShw808hNtrwucrI-Q"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/youtube.png"></a>&nbsp;&nbsp;
