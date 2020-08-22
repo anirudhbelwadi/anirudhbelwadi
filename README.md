@@ -14,9 +14,10 @@ Music has been a part my of life since childhood and will be swan song. It has e
 - Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
 - Photography
 
-## Projects I'm currently working on
+## Present Association
 - [HaleAI](https://www.linkedin.com/company/hale-ai/)
 - [Collaboration Photography series](https://www.instagram.com/believed_it_after_clicking_it/)
+- [TEDxSIESGST](https://tedxsiesgst.live/)
 
 ## Part of
 - Aaroha (Music club of SIES Graduate School of Technology)
