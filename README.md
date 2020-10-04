@@ -15,9 +15,10 @@ Music has been a part my of life since childhood and will be swan song. It has e
 - Photography
 
 ## Present Associations
-- [HaleAI](https://www.linkedin.com/company/hale-ai/)
+- [HaleAI](https://www.linkedin.com/company/hale-ai/) - Full Stack Developer
+- [Google DSC SIESGST](https://dsc.community.dev/sies-graduate-school-of-technology/) - Administrator
+- [TEDxSIESGST](https://tedxsiesgst.live/) - Core Team Member
 - [Collaboration Photography series](https://www.instagram.com/believed_it_after_clicking_it/)
-- [TEDxSIESGST](https://tedxsiesgst.live/)
 
 ## Part of
 - Aaroha (Music club of SIES Graduate School of Technology)
