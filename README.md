@@ -13,6 +13,19 @@ The motto of my life is to be determined towards the software world and its deve
 - Photography
 
 ## Experience
+<ul>
+  <li>
+    <a href="http://hale-ai.com/">HaleAI</a> - 
+    <ul>
+      <li>
+        <b>Full Stack Developer</b> - <b>Apr 2020 - Present</b>
+      </li>
+      <li>
+        <b>Full Stack Intern</b> - <b>Mar 2020 - Apr 2020</b>
+      </li>
+    </ul>
+  </li>
+</ul>
 - [HaleAI](http://www.hale-ai.com/) - <b>Full Stack Developer</b> - <b>Apr 2020 - Present</b>
 - [Google DSC SIESGST](https://dsc.community.dev/sies-graduate-school-of-technology/) - <b>Administrator</b> - <b>Aug 2020 - Present</b>
 - [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
