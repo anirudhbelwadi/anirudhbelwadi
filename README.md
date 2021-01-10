@@ -9,6 +9,8 @@ A passionate individual who loves building web applications, a developer and mus
 
 The motto of my life is to be determined towards the software world and its development for the betterment in the standard of living of the society.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhbelwadi&theme=dark" />
+
 ## Skills
 - Full Stack Web Development
 - Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
