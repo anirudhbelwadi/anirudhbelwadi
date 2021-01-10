@@ -1,5 +1,7 @@
 # Anirudh Srinath Belwadi
 
+Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
 
 ## About myself
