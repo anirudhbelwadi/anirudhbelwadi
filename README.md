@@ -11,7 +11,7 @@ The motto of my life is to be determined towards the software world and its deve
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudhbelwadi&theme=highcontrast&hide=issues&count_private=true&show_icons=true" />
 
-![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
+Profile Views : ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
 ## Skills
 - Full Stack Web Development
