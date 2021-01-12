@@ -10,7 +10,7 @@ A passionate individual who loves building web applications, a developer and mus
 The motto of my life is to be determined towards the software world and its development for the betterment in the standard of living of the society.
 
 ## Status
-![](https://raw.githubusercontent.com/anirudhbelwadi/anirudhbelwadi/master/profile-summary-card-output/default/0-profile-details.svg) ![](https://raw.githubusercontent.com/anirudhbelwadi/anirudhbelwadi/master/profile-summary-card-output/nord_dark/3-stats.svg) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 ## Profile Visits
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
