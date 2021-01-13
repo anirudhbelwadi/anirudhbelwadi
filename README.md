@@ -69,4 +69,5 @@ The motto of my life is to be determined towards the software world and its deve
 <a href="https://www.youtube.com/channel/UC-cy4jShw808hNtrwucrI-Q"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/youtube.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/anirudh.belwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/BelwadiAnirudh"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>
+<a href="https://www.instagram.com/believed_it_after_clicking_it/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/camera.png"></a>
 
