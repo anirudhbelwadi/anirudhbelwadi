@@ -60,6 +60,15 @@ The motto of my life is to be determined towards the software world and its deve
 - Fundraising for [Bamanwada project](https://milaap.org/fundraisers/AnirudhBelwadi)
 - Event head of Tug of Event of Cognition 2019 (the annual technical and sports fest of SIES Graduate School of Technology)
 
+## Licences and Certifications
+- MetaCTF CyberGames 2020 Participation
+- HackerRank Problem Solving
+- Skill Badges in Qwiklabs
+- AWS Builders Online Series
+- Amazon S3 Primer
+- Introduction to Amazon S3
+- Python Programming - MyCaptain
+
 ## Quick Links
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://anirudhbelwadi.github.io/Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
