@@ -58,7 +58,7 @@ The motto of my life is to be determined towards the software world and its deve
 
 ## Volunteer Experience
 - Fundraising for [Bamanwada project](https://milaap.org/fundraisers/AnirudhBelwadi)
-- Event head of Tug of Event of Cognition 2019 (the annual technical and sports fest of SIES Graduate School of Technology)
+- Event head - Tug of War Event - Cognition 2019 (the annual technical and sports fest of SIES Graduate School of Technology)
 
 ## Licences and Certifications
 - [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
