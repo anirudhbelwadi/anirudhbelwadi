@@ -61,13 +61,13 @@ The motto of my life is to be determined towards the software world and its deve
 - Event head of Tug of Event of Cognition 2019 (the annual technical and sports fest of SIES Graduate School of Technology)
 
 ## Licences and Certifications
-- MetaCTF CyberGames 2020 Participation
-- HackerRank Problem Solving
-- Skill Badges in Qwiklabs
-- AWS Builders Online Series
-- Amazon S3 Primer
-- Introduction to Amazon S3
-- Python Programming - MyCaptain
+- [MetaCTF CyberGames 2020 Participation](https://drive.google.com/file/d/1Uijh4inUfXJo93oLlmL70uoEJ_jPbsTF/view)
+- [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
+- [Skill Badges in Qwiklabs](https://google.qwiklabs.com/public_profiles/c5d56831-78d1-4981-bde6-a2fb42576042)
+- [AWS Builders Online Series](https://drive.google.com/file/d/1fnzVgtJMJEY9A_qigD1lqVokC82uI-BU/view)
+- [Amazon S3 Primer](https://drive.google.com/file/d/1unL6rR-2voL36FmWxZKD0L1Ggr057rBj/view)
+- [Introduction to Amazon S3](https://drive.google.com/file/d/1VoNjAo5m7TwcZOS9kAz-uwircQEtPTDR/view)
+- [Python Programming - MyCaptain](https://drive.google.com/file/d/16Mce4eaoFY7ZRBlPz6tjbODy_RCH_qGK/view)
 
 ## Quick Links
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
