@@ -54,8 +54,7 @@ The motto of my life is to be determined towards the software world and its deve
 - [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>POC</b> - <b>Jul 2020 - Present</b>
 - [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
 - Core member (Class Representative) of [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/)
-- App Development GDP (GSTians Development Program) of SIES Graduate School of Technology
-- Web Development GDP (GSTians Development Program) of SIES Graduate School of Technology
+- App and Web Development GDP (GSTians Development Program) of SIES Graduate School of Technology
 
 ## Volunteer Experience
 - Fundraising for [Bamanwada project](https://milaap.org/fundraisers/AnirudhBelwadi)
