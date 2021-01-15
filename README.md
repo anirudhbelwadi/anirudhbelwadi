@@ -51,8 +51,8 @@ The motto of my life is to be determined towards the software world and its deve
 <img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
 
 ## Education
-<table>
-  <tr style="text-align:center;">
+<table style="text-align:center;">
+  <tr>
     <th>Course</th>
     <th>School/University</th>
     <th>Year of Passing</th>
