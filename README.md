@@ -4,18 +4,18 @@
 
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
 
-## About myself
+# About myself
 A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
 
 The motto of my life is to be determined towards the software world and its development for the betterment in the standard of living of the society.
 
-## Status
+# Status
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
-## Profile Visits
+# Profile Visits
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
-## Skills
+# Skills
 - Full Stack Web Development
 - Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
 - Photography
@@ -40,17 +40,17 @@ The motto of my life is to be determined towards the software world and its deve
 - [IETE SIESGST](https://www.linkedin.com/company/iete-siesgst/) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
 - [TEDxSIESGST](https://tedxsiesgst.live/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
 
-## Tech Stack
-### Front End
+# Tech Stack
+## Front End
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-### Back End
+## Back End
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white">
 
-### Deployment Platforms
+## Deployment Platforms
 <img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
 
-## Education
+# Education
 <table>
   <tr>
     <th>Course</th>
@@ -80,17 +80,17 @@ The motto of my life is to be determined towards the software world and its deve
     
   
 
-## Associations
+# Associations
 - [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>POC</b> - <b>Jul 2020 - Present</b>
 - [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
 - Core member (Class Representative) of [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/)
 - App and Web Development GDP (GSTians Development Program) of SIES Graduate School of Technology
 
-## Volunteer Experience
+# Volunteer Experience
 - Fundraising for [Bamanwada project](https://milaap.org/fundraisers/AnirudhBelwadi)
 - Event head - Tug of War - Cognition 2019 (the annual technical and [sports](https://www.instagram.com/sportsteam_siesgst/) fest of SIES Graduate School of Technology)
 
-## Licences and Certifications
+# Licences and Certifications
 - [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
 - [Python Programming - MyCaptain](https://drive.google.com/file/d/16Mce4eaoFY7ZRBlPz6tjbODy_RCH_qGK/view)
 - [Skill Badges in Qwiklabs](https://google.qwiklabs.com/public_profiles/c5d56831-78d1-4981-bde6-a2fb42576042)
@@ -100,7 +100,7 @@ The motto of my life is to be determined towards the software world and its deve
 - [Introduction to Amazon S3](https://drive.google.com/file/d/1VoNjAo5m7TwcZOS9kAz-uwircQEtPTDR/view)
 
 
-## Quick Links
+# Quick Links
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://anirudhbelwadi.github.io/Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
