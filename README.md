@@ -50,6 +50,36 @@ The motto of my life is to be determined towards the software world and its deve
 ### Deployment Platforms
 <img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
 
+## Education
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>B.E. in Computer Engineering</td>
+    <td>Mumbai University</td>
+    <td>2022</td>
+    <td>8.18 CGPA (Current)</td>
+  </tr>
+  <tr>
+    <td>Higher Secondary Certification</td>
+    <td>Vasant Vihar High School & Junior College</td>
+    <td>2018</td>
+    <td>78.77%</td>
+  </tr>
+  <tr>
+    <td>Secondary School Certification</td>
+    <td>Dr Kalmadi Shamarao High School</td>
+    <td>2016</td>
+    <td>87%</td>
+  </tr>
+ </table>
+    
+  
+
 ## Associations
 - [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>POC</b> - <b>Jul 2020 - Present</b>
 - [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
