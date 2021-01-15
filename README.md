@@ -52,7 +52,7 @@ The motto of my life is to be determined towards the software world and its deve
 
 ## Education
 <table>
-  <tr>
+  <tr style="text-align:center;">
     <th>Course</th>
     <th>School/University</th>
     <th>Year of Passing</th>
