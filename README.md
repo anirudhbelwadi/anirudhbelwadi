@@ -60,19 +60,19 @@ The motto of my life is to be determined towards the software world and its deve
   </tr>
   <tr>
     <td>B.E. in Computer Engineering</td>
-    <td>Mumbai University</td>
+    <td><a href="https://mu.ac.in/">Mumbai University</a></td>
     <td>2022</td>
     <td>8.18 CGPA (Current)</td>
   </tr>
   <tr>
     <td>Higher Secondary Certification</td>
-    <td>Vasant Vihar High School & Junior College</td>
+    <td><a href="http://vvhs.edu.in/">Vasant Vihar High School & Junior College</a></td>
     <td>2018</td>
     <td>78.77%</td>
   </tr>
   <tr>
     <td>Secondary School Certification</td>
-    <td>Dr Kalmadi Shamarao High School</td>
+    <td><a href="https://kaveri.edu.in/khsg/">Dr Kalmadi Shamarao High School</a></td>
     <td>2016</td>
     <td>87%</td>
   </tr>
