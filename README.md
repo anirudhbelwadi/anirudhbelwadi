@@ -20,7 +20,7 @@ The motto of my life is to be determined towards the software world and its deve
 - Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
 - Photography
 
-## Experience
+# Experience
 <ul>
   <li>
     <a href="http://hale-ai.com/">HaleAI</a> - 
