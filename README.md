@@ -25,7 +25,7 @@ The motto of my life is to be determined towards the software world and its deve
     <th>Imaging</th>
     <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Lightroom-24A3F7?style=for-the-badge&logo=adobe&logoColor=001D3F"></td>
   </tr>
-  <tr>
+  <tr style="background-color: transparent;">
     <th>Video</th>
     <td><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-E287F6?style=for-the-badge&logo=adobe&logoColor=140122"> <img src="https://img.shields.io/badge/Rush-9494F7?style=for-the-badge&logo=adobe&logoColor=000058"></td>
   </tr>
