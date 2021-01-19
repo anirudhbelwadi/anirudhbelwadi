@@ -13,28 +13,7 @@ The motto of my life is to be determined towards the software world and its deve
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 # Profile Visits
-![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
-
-# Skills
-- Full Stack Web Development
-- Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
-- Photography
-## Adobe
-<table>
-  <tr>
-    <th>Imaging</th>
-    <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Lightroom-24A3F7?style=for-the-badge&logo=adobe&logoColor=001D3F"></td>
-  </tr>
-  <tr>
-    <th>Video</th>
-    <td><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-E287F6?style=for-the-badge&logo=adobe&logoColor=140122"> <img src="https://img.shields.io/badge/Rush-9494F7?style=for-the-badge&logo=adobe&logoColor=000058"></td>
-  </tr>
-  <tr>
-    <th>Illustration</th>
-    <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> </td>
-  </tr>
-</table>
-  
+![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)  
 
 # Experience
 <ul>
@@ -114,6 +93,26 @@ The motto of my life is to be determined towards the software world and its deve
 - [AWS Builders Online Series](https://drive.google.com/file/d/1fnzVgtJMJEY9A_qigD1lqVokC82uI-BU/view)
 - [Amazon S3 Primer](https://drive.google.com/file/d/1unL6rR-2voL36FmWxZKD0L1Ggr057rBj/view)
 - [Introduction to Amazon S3](https://drive.google.com/file/d/1VoNjAo5m7TwcZOS9kAz-uwircQEtPTDR/view)
+
+# Skills
+- Full Stack Web Development
+- Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
+- Photography
+- Adobe softwares
+<table>
+  <tr>
+    <th>Imaging</th>
+    <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Lightroom-24A3F7?style=for-the-badge&logo=adobe&logoColor=001D3F"></td>
+  </tr>
+  <tr>
+    <th>Video</th>
+    <td><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-E287F6?style=for-the-badge&logo=adobe&logoColor=140122"> <img src="https://img.shields.io/badge/Rush-9494F7?style=for-the-badge&logo=adobe&logoColor=000058"></td>
+  </tr>
+  <tr>
+    <th>Illustration</th>
+    <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> </td>
+  </tr>
+</table>
 
 
 # Quick Links
