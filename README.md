@@ -35,6 +35,8 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Projects
 - [Ideation 2020 Website](http://ideation.techxter.in/)
+- [Amigos Social Media Website](https://github.com/anirudhbelwadi/Amigos-Social-Media-Portal)
+- [NETFLIX clone](https://github.com/anirudhbelwadi/Netflix-Clone)
 
 # Tech Stack
 ### Front End
