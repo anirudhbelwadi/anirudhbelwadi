@@ -30,7 +30,7 @@ The motto of my life is to be determined towards the software world and its deve
 
 - [Google DSC SIESGST](https://dsc.community.dev/sies-graduate-school-of-technology/) - <b>Administrator</b> - <b>Aug 2020 - Present</b>
 - [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
-- [IETE SIESGST](https://www.linkedin.com/company/iete-siesgst/) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
+- [IETE SIESGST](http://ideation.techxter.in/team.html) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
 - [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
 
 # Projects
