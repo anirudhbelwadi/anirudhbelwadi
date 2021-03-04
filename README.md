@@ -11,6 +11,7 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Status
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)  
 
 # Experience
