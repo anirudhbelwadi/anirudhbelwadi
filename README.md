@@ -1,6 +1,6 @@
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">
 
-<b>My name is Anirudh Srinath Belwadi</b><br>
+<b>My name is <strong>Anirudh Srinath Belwadi</strong></b><br>
 <i>My <a href="https://abphotography.live/">portfolio</a></i>
 
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
