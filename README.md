@@ -37,11 +37,11 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Projects
 - [EntreSpace Website](http://entrespace.in/)
-- [Ideation 2020 Website](http://ideation.techxter.in/)
 - [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
+- [Ideation 2020 Website](http://ideation.techxter.in/)
 - [Google Search Landing Page](https://abphotography.live/Google-Landing-Page/)
-- [Amigos Social Media Website](https://github.com/anirudhbelwadi/Amigos-Social-Media-Portal)
 - [NETFLIX clone](https://netflix-clone-63163.web.app/)
+- [Amigos Social Media Website](https://github.com/anirudhbelwadi/Amigos-Social-Media-Portal)
 
 # Tech Stack
 ### Front End
