@@ -94,6 +94,7 @@ The motto of my life is to be determined towards the software world and its deve
 - Event head - Tug of War - Cognition 2019 (the annual technical and [sports](https://www.instagram.com/sportsteam_siesgst/) fest of SIES Graduate School of Technology)
 
 # Licences and Certifications
+- [Bugsquash - a 72 hour Online Project Building Competition](https://drive.google.com/file/d/1Fr8_9unEv_wTL-XKSomTqU1P2wVBykRU/view?usp=sharing)
 - [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
 - [Python Programming - MyCaptain](https://drive.google.com/file/d/16Mce4eaoFY7ZRBlPz6tjbODy_RCH_qGK/view)
 - [Skill Badges in Qwiklabs](https://google.qwiklabs.com/public_profiles/c5d56831-78d1-4981-bde6-a2fb42576042)
