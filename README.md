@@ -124,7 +124,7 @@ The motto of my life is to be determined towards the software world and its deve
 
 
 # Quick Links
-<a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anirudh-srinath-belwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://abphotography.live/assets/docs/Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/anirudh.fullstack/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
