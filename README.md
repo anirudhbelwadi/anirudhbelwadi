@@ -110,7 +110,7 @@ The motto of my life is to be determined towards the software world and its deve
 <table>
   <tr>
     <th>Imaging</th>
-    <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Lightroom-24A3F7?style=for-the-badge&logo=adobe&logoColor=001D3F"></td>
+    <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Lightroom-24A3F7?style=for-the-badge&logo=adobe&logoColor=001D3F"> <img src="https://img.shields.io/badge/Snapseed-0B7D40?style=for-the-badge&logo=google&logoColor=ACF756"></td>
   </tr>
   <tr>
     <th>Video</th>
