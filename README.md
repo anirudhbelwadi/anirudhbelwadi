@@ -35,7 +35,7 @@ The motto of my life is to be determined towards the software world and its deve
 - [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
 
 # Projects
-- [EntreSpace Website](http://entrespace.in/)
+- [EntreSpace Website](https://entrespace.in/)
 - [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
 - [Ideation 2020 Website](http://ideation.techxter.in/)
 - [Google Search Landing Page](https://abphotography.live/Google-Landing-Page/)
