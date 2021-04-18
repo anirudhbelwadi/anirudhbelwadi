@@ -73,7 +73,7 @@ The motto of my life is to be determined towards the software world and its deve
     <td>B.E. in Computer Engineering</td>
     <td><a href="https://mu.ac.in/">Mumbai University</a></td>
     <td>2022</td>
-    <td>8.18 CGPA (Current)</td>
+    <td>8.74 CGPA (Current)</td>
   </tr>
   <tr>
     <td>Higher Secondary Certification</td>
