@@ -16,6 +16,12 @@ The motto of my life is to be determined towards the software world and its deve
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
+# Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 # Experience
 
 <ul>
