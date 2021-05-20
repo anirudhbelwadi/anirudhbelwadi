@@ -18,9 +18,9 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 # Experience
 
