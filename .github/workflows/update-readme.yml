@@ -1,17 +1,31 @@
-name: Update README
+name: Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/5 * * * *'
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: anirudhbelwadi/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout sources
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Generate README.md
+        uses: actions-js/profile-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: anirudhbelwadi
+          template: 'TEMPLATE.md'
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
