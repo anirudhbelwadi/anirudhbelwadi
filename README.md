@@ -40,6 +40,7 @@ The motto of my life is to be determined towards the software world and its deve
 # Projects
 
 - [EntreSpace Website](https://entrespace.in/)
+- [Aaradhya Services Website](https://aaradhyaservices.in/)
 - [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
 - [Ideation 2020 Website](http://ideation.techxter.in/)
 - [Google Search Landing Page](https://abphotography.live/Google-Landing-Page/)
