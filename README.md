@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-<h3><i>Spare some time to take a look at my <a href="https://abphotography.live/">portfolio</a>!</i></h3>
+<h3><i>Spare some time to take a look at my <a href="https://anirudhbelwadi.com/">portfolio</a>!</i></h3>
 
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
 
@@ -46,7 +46,7 @@ The motto of my life is to be determined towards the software world and its deve
 - [Aaradhya Services Website](https://aaradhyaservices.in/)
 - [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
 - [Ideation 2020 Website](http://ideation.techxter.in/)
-- [Google Search Landing Page](https://abphotography.live/Google-Landing-Page/)
+- [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
 - [NETFLIX clone](https://netflix-clone-63163.web.app/)
 - [Amigos Social Media Website](https://github.com/anirudhbelwadi/Amigos-Social-Media-Portal)
 
@@ -142,7 +142,7 @@ The motto of my life is to be determined towards the software world and its deve
 # Quick Links
 
 <a href="https://www.linkedin.com/in/anirudh-srinath-belwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://abphotography.live/assets/docs/Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
+<a href="https://anirudhbelwadi.com/assets/docs/Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/anirudh.fullstack/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/AnirudhBelwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/youtube.png"></a>&nbsp;&nbsp;
