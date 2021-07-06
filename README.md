@@ -18,6 +18,9 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Experience
 
+- [Team FullStack](https://teamfullstack.tech/) - <b>Course Director</b> - <b>March 2021 - Present</b>
+- [Cardinal LCA](https://cardinallca.com/) - <b>Frontend Developer</b> - <b>July 2021 - Present</b>
+
 <ul>
   <li>
     <a href="http://hale-ai.com/">HaleAI</a> - 
@@ -74,7 +77,7 @@ The motto of my life is to be determined towards the software world and its deve
     <td>B.E. in Computer Engineering</td>
     <td><a href="https://mu.ac.in/">Mumbai University</a></td>
     <td>2022</td>
-    <td>8.74 CGPA (Current)</td>
+    <td>8.76 CGPA (Current)</td>
   </tr>
   <tr>
     <td>Higher Secondary Certification</td>
