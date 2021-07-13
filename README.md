@@ -17,15 +17,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer) from [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-2. 💪 Opened PR [#3](https://github.com/Readme-Workflows/readme-replacer/pull/3) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-3. 👍 Approved [#2](https://github.com/Readme-Workflows/readme-replacer/pull/2#pullrequestreview-703745594) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-4. 💪 Opened PR [#2](https://github.com/Readme-Workflows/readme-replacer/pull/2) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-5. 🎉 Merged PR [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+1. 💪 Opened PR [#1](https://github.com/Parth-19/parth/pull/1) in [Parth-19/parth](https://github.com/Parth-19/parth)
+2. 🔱 Forked [anirudhbelwadi/parth](https://github.com/anirudhbelwadi/parth) from [Parth-19/parth](https://github.com/Parth-19/parth)
+3. 🤝 Became collaborator on [Aaradhya-Services/website](https://github.com/Aaradhya-Services/website)
+4. ⭐ Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+5. 📔 Created new repository [anirudhbelwadi/flask-deplyment-demo](https://github.com/anirudhbelwadi/flask-deplyment-demo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 13th, 2021, 7:09:33 AM
+Last Updated: Tuesday, July 13th, 2021, 7:13:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
