@@ -17,15 +17,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/Parth-19/parth/pull/1) in [Parth-19/parth](https://github.com/Parth-19/parth)
-2. 🔱 Forked [anirudhbelwadi/parth](https://github.com/anirudhbelwadi/parth) from [Parth-19/parth](https://github.com/Parth-19/parth)
-3. 🤝 Became collaborator on [Aaradhya-Services/website](https://github.com/Aaradhya-Services/website)
-4. ⭐ Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-5. 📔 Created new repository [anirudhbelwadi/flask-deplyment-demo](https://github.com/anirudhbelwadi/flask-deplyment-demo)
+1. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+2. 💪 Opened PR [#1](https://github.com/Parth-19/parth/pull/1) in [Parth-19/parth](https://github.com/Parth-19/parth)
+3. 🔱 Forked [anirudhbelwadi/parth](https://github.com/anirudhbelwadi/parth) from [Parth-19/parth](https://github.com/Parth-19/parth)
+4. 🤝 Became collaborator on [Aaradhya-Services/website](https://github.com/Aaradhya-Services/website)
+5. ⭐ Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 14th, 2021, 5:33:55 AM
+Last Updated: Wednesday, July 14th, 2021, 6:13:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
