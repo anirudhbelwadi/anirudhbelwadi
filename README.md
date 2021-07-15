@@ -12,6 +12,8 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Status
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
 ## Recent Activity
 
 This is a list of my most recent activity on GitHub.
@@ -27,8 +29,6 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, July 15th, 2021, 8:50:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
