@@ -19,15 +19,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-2. 💪 Opened PR [#1](https://github.com/Parth-19/parth/pull/1) in [Parth-19/parth](https://github.com/Parth-19/parth)
-3. 🔱 Forked [anirudhbelwadi/parth](https://github.com/anirudhbelwadi/parth) from [Parth-19/parth](https://github.com/Parth-19/parth)
-4. 🤝 Became collaborator on [Aaradhya-Services/website](https://github.com/Aaradhya-Services/website)
-5. ⭐ Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+1. 💪 Opened PR [#2](https://github.com/Parth-19/parth/pull/2) in [Parth-19/parth](https://github.com/Parth-19/parth)
+2. 🔱 Forked [anirudhbelwadi/parth](https://github.com/anirudhbelwadi/parth) from [Parth-19/parth](https://github.com/Parth-19/parth)
+3. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+4. 💪 Opened PR [#1](https://github.com/Parth-19/parth/pull/1) in [Parth-19/parth](https://github.com/Parth-19/parth)
+5. 🔱 Forked [anirudhbelwadi/parth](https://github.com/anirudhbelwadi/parth) from [Parth-19/parth](https://github.com/Parth-19/parth)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 20th, 2021, 10:10:41 PM
+Last Updated: Tuesday, July 20th, 2021, 10:37:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
