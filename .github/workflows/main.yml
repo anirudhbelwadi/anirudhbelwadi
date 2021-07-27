@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
+    - cron: '*/720 * * * *' # Update every 30 minutes
   workflow_dispatch:
 
 jobs:
