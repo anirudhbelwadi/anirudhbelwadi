@@ -34,8 +34,19 @@ Last Updated: Wednesday, July 28th, 2021, 4:04:26 AM
 
 # Experience
 
-- [Team FullStack](https://teamfullstack.tech/) - <b>Course Director</b> - <b>March 2021 - Present</b>
-- [Cardinal LCA](https://cardinallca.com/) - <b>Frontend Developer</b> - <b>July 2021 - Present</b>
+<ul>
+  <li>
+    <a href="https://dsc.community.dev/sies-graduate-school-of-technology/">Google DSC SIESGST</a> - 
+    <ul>
+      <li>
+        <b>Campus Lead</b> - <b>July 2021 - Present</b>
+      </li>
+      <li>
+        <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li>
@@ -51,9 +62,10 @@ Last Updated: Wednesday, July 28th, 2021, 4:04:26 AM
   </li>
 </ul>
 
+- [Team FullStack](https://teamfullstack.tech/) - <b>Course Director</b> - <b>March 2021 - Present</b>
+- [Cardinal LCA](https://cardinallca.com/) - <b>Frontend Developer</b> - <b>July 2021 - Present</b>
 - [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
 - [IETE SIESGST](http://ideation.techxter.in/team.html) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
-- [Google DSC SIESGST](https://dsc.community.dev/sies-graduate-school-of-technology/) - <b>Administrator</b> - <b>Aug 2020 - April 2021</b>
 - [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
 
 # Projects
