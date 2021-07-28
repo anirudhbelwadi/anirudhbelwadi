@@ -63,7 +63,7 @@ Last Updated: Wednesday, July 28th, 2021, 3:24:49 AM
 - [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
 - [Ideation 2020 Website](http://ideation.techxter.in/)
 - [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
-- [Soundlogy - Genre Detection Application using Machine Learning]https://github.com/anirudhbelwadi/music-application-using-machine-learning)
+- [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
 - [NETFLIX clone](https://netflix-clone-63163.web.app/)
 - [Amigos Social Media Website](https://github.com/anirudhbelwadi/Amigos-Social-Media-Portal)
 
