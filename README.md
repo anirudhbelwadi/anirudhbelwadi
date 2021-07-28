@@ -152,7 +152,7 @@ Last Updated: Wednesday, July 28th, 2021, 3:24:49 AM
   </tr>
   <tr>
     <th>Illustration</th>
-    <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> </td>
+    <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000 </td>
   </tr>
 </table>
 
