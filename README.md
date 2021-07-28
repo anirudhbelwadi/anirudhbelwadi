@@ -151,7 +151,7 @@ Last Updated: Wednesday, July 28th, 2021, 3:24:49 AM
     <td><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-E287F6?style=for-the-badge&logo=adobe&logoColor=140122"> <img src="https://img.shields.io/badge/Rush-9494F7?style=for-the-badge&logo=adobe&logoColor=000058"></td>
   </tr>
   <tr>
-    <th>Illustration</th>
+    <th>Graphics and Prototyping</th>
     <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> <img src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000"> </td>
   </tr>
 </table>
