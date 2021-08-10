@@ -19,15 +19,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](https://github.com/Parth-19/parth/pull/4) in [Parth-19/parth](https://github.com/Parth-19/parth)
-2. 💪 Opened PR [#3](https://github.com/Parth-19/parth/pull/3) in [Parth-19/parth](https://github.com/Parth-19/parth)
-3. 💪 Opened PR [#2](https://github.com/Parth-19/parth/pull/2) in [Parth-19/parth](https://github.com/Parth-19/parth)
-4. 🔱 Forked [anirudhbelwadi/parth](https://github.com/anirudhbelwadi/parth) from [Parth-19/parth](https://github.com/Parth-19/parth)
-5. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+1. ⭐ Starred [wasimcodex/wasimcodex](https://github.com/wasimcodex/wasimcodex)
+2. 💪 Opened PR [#4](https://github.com/Parth-19/parth/pull/4) in [Parth-19/parth](https://github.com/Parth-19/parth)
+3. 💪 Opened PR [#3](https://github.com/Parth-19/parth/pull/3) in [Parth-19/parth](https://github.com/Parth-19/parth)
+4. 💪 Opened PR [#2](https://github.com/Parth-19/parth/pull/2) in [Parth-19/parth](https://github.com/Parth-19/parth)
+5. 🔱 Forked [anirudhbelwadi/parth](https://github.com/anirudhbelwadi/parth) from [Parth-19/parth](https://github.com/Parth-19/parth)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 10th, 2021, 8:06:31 AM
+Last Updated: Tuesday, August 10th, 2021, 9:03:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
