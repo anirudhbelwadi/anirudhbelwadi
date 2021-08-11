@@ -77,7 +77,7 @@ Last Updated: Wednesday, August 11th, 2021, 5:03:23 AM
 - [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
 - [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
 - [NETFLIX clone](https://netflix-clone-63163.web.app/)
-- [Amigos Social Media Website](https://github.com/anirudhbelwadi/Amigos-Social-Media-Portal)
+- [Gist. Social Media Website](https://github.com/anirudhbelwadi/Gist.-Social-Media-website)
 
 # Tech Stack
 
