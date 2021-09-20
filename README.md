@@ -21,13 +21,13 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [anirudhbelwadi/api](https://github.com/anirudhbelwadi/api)
 2. ⭐ Starred [wasimcodex/wasimcodex](https://github.com/wasimcodex/wasimcodex)
-3. 💪 Opened PR [#4](https://github.com/Parth-19/parth/pull/4) in [Parth-19/parth](https://github.com/Parth-19/parth)
+3. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 4. 💪 Opened PR [#3](https://github.com/Parth-19/parth/pull/3) in [Parth-19/parth](https://github.com/Parth-19/parth)
 5. 💪 Opened PR [#2](https://github.com/Parth-19/parth/pull/2) in [Parth-19/parth](https://github.com/Parth-19/parth)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 20th, 2021, 7:02:58 PM
+Last Updated: Monday, September 20th, 2021, 8:04:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
