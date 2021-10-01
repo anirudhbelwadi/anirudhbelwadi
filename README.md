@@ -19,15 +19,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [anirudhbelwadi/free-online-courses](https://github.com/anirudhbelwadi/free-online-courses) from [manmeetkr19/free-online-courses](https://github.com/manmeetkr19/free-online-courses)
-2. 💪 Opened PR [#31](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/31) in [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
-3. ⭐ Starred [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
-4. 🔱 Forked [anirudhbelwadi/Hactoberfest-accepted](https://github.com/anirudhbelwadi/Hactoberfest-accepted) from [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
-5. 💪 Opened PR [#100](https://github.com/blackbird71SR/Code-Portfolios/pull/100) in [blackbird71SR/Code-Portfolios](https://github.com/blackbird71SR/Code-Portfolios)
+1. 💪 Opened PR [#11](https://github.com/manmeetkr19/free-online-courses/pull/11) in [manmeetkr19/free-online-courses](https://github.com/manmeetkr19/free-online-courses)
+2. 🔱 Forked [anirudhbelwadi/free-online-courses](https://github.com/anirudhbelwadi/free-online-courses) from [manmeetkr19/free-online-courses](https://github.com/manmeetkr19/free-online-courses)
+3. 💪 Opened PR [#31](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/31) in [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
+4. ⭐ Starred [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
+5. 🔱 Forked [anirudhbelwadi/Hactoberfest-accepted](https://github.com/anirudhbelwadi/Hactoberfest-accepted) from [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 1st, 2021, 7:04:10 AM
+Last Updated: Friday, October 1st, 2021, 8:07:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
