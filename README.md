@@ -19,15 +19,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [anirudhbelwadi/developer-community-stats](https://github.com/anirudhbelwadi/developer-community-stats) from [subeshb1/developer-community-stats](https://github.com/subeshb1/developer-community-stats)
-2. 🔱 Forked [anirudhbelwadi/Hacktoberfest-2020](https://github.com/anirudhbelwadi/Hacktoberfest-2020) from [Ishaan28malik/Hacktoberfest-2020](https://github.com/Ishaan28malik/Hacktoberfest-2020)
-3. 📔 Created new repository [anirudhbelwadi/api](https://github.com/anirudhbelwadi/api)
-4. ⭐ Starred [wasimcodex/wasimcodex](https://github.com/wasimcodex/wasimcodex)
-5. 💪 Opened PR [#2](https://github.com/Parth-19/parth/pull/2) in [Parth-19/parth](https://github.com/Parth-19/parth)
+1. 🔱 Forked [anirudhbelwadi/free-online-courses](https://github.com/anirudhbelwadi/free-online-courses) from [manmeetkr19/free-online-courses](https://github.com/manmeetkr19/free-online-courses)
+2. 💪 Opened PR [#31](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/31) in [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
+3. ⭐ Starred [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
+4. 🔱 Forked [anirudhbelwadi/Hactoberfest-accepted](https://github.com/anirudhbelwadi/Hactoberfest-accepted) from [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
+5. 💪 Opened PR [#100](https://github.com/blackbird71SR/Code-Portfolios/pull/100) in [blackbird71SR/Code-Portfolios](https://github.com/blackbird71SR/Code-Portfolios)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 1st, 2021, 6:05:32 AM
+Last Updated: Friday, October 1st, 2021, 7:04:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
