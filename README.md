@@ -19,15 +19,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [anirudhbelwadi/Hacktoberfest-2020](https://github.com/anirudhbelwadi/Hacktoberfest-2020) from [Ishaan28malik/Hacktoberfest-2020](https://github.com/Ishaan28malik/Hacktoberfest-2020)
-2. 📔 Created new repository [anirudhbelwadi/api](https://github.com/anirudhbelwadi/api)
-3. ⭐ Starred [wasimcodex/wasimcodex](https://github.com/wasimcodex/wasimcodex)
-4. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+1. 🔱 Forked [anirudhbelwadi/developer-community-stats](https://github.com/anirudhbelwadi/developer-community-stats) from [subeshb1/developer-community-stats](https://github.com/subeshb1/developer-community-stats)
+2. 🔱 Forked [anirudhbelwadi/Hacktoberfest-2020](https://github.com/anirudhbelwadi/Hacktoberfest-2020) from [Ishaan28malik/Hacktoberfest-2020](https://github.com/Ishaan28malik/Hacktoberfest-2020)
+3. 📔 Created new repository [anirudhbelwadi/api](https://github.com/anirudhbelwadi/api)
+4. ⭐ Starred [wasimcodex/wasimcodex](https://github.com/wasimcodex/wasimcodex)
 5. 💪 Opened PR [#2](https://github.com/Parth-19/parth/pull/2) in [Parth-19/parth](https://github.com/Parth-19/parth)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 1st, 2021, 5:04:10 AM
+Last Updated: Friday, October 1st, 2021, 6:05:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
