@@ -19,15 +19,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Asmita-Special-School/website](https://github.com/Asmita-Special-School/website)
-2. 💪 Opened PR [#1832](https://github.com/twowaits/make-pull-request/pull/1832) in [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request)
-3. 🔱 Forked [anirudhbelwadi/make-pull-request](https://github.com/anirudhbelwadi/make-pull-request) from [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request)
-4. 💪 Opened PR [#276](https://github.com/client69/Hacktober-Open/pull/276) in [client69/Hacktober-Open](https://github.com/client69/Hacktober-Open)
-5. 🔱 Forked [anirudhbelwadi/Hacktober-Open](https://github.com/anirudhbelwadi/Hacktober-Open) from [client69/Hacktober-Open](https://github.com/client69/Hacktober-Open)
+1. 💪 Opened PR [#64](https://github.com/BlackTimber-Labs/Portfolio-Website/pull/64) in [BlackTimber-Labs/Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website)
+2. 🔱 Forked [anirudhbelwadi/Portfolio-Website-1](https://github.com/anirudhbelwadi/Portfolio-Website-1) from [BlackTimber-Labs/Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website)
+3. 🤝 Became collaborator on [Asmita-Special-School/website](https://github.com/Asmita-Special-School/website)
+4. 💪 Opened PR [#1832](https://github.com/twowaits/make-pull-request/pull/1832) in [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request)
+5. 🔱 Forked [anirudhbelwadi/make-pull-request](https://github.com/anirudhbelwadi/make-pull-request) from [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 3rd, 2021, 8:05:38 PM
+Last Updated: Sunday, October 3rd, 2021, 9:03:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
