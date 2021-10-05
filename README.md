@@ -19,15 +19,15 @@ The motto of my life is to be determined towards the software world and its deve
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#64](https://github.com/BlackTimber-Labs/Portfolio-Website/pull/64) in [BlackTimber-Labs/Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website)
-2. 🔱 Forked [anirudhbelwadi/Portfolio-Website-1](https://github.com/anirudhbelwadi/Portfolio-Website-1) from [BlackTimber-Labs/Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website)
-3. 🤝 Became collaborator on [Asmita-Special-School/website](https://github.com/Asmita-Special-School/website)
-4. 💪 Opened PR [#1832](https://github.com/twowaits/make-pull-request/pull/1832) in [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request)
-5. 🔱 Forked [anirudhbelwadi/make-pull-request](https://github.com/anirudhbelwadi/make-pull-request) from [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request)
+1. 🔱 Forked [anirudhbelwadi/harshagr18.github.io](https://github.com/anirudhbelwadi/harshagr18.github.io) from [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
+2. 💪 Opened PR [#7](https://github.com/harshagr18/HackerRank-Solutions/pull/7) in [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
+3. 🔱 Forked [anirudhbelwadi/HackerRank-Solutions](https://github.com/anirudhbelwadi/HackerRank-Solutions) from [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
+4. 💪 Opened PR [#64](https://github.com/BlackTimber-Labs/Portfolio-Website/pull/64) in [BlackTimber-Labs/Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website)
+5. 🔱 Forked [anirudhbelwadi/Portfolio-Website-1](https://github.com/anirudhbelwadi/Portfolio-Website-1) from [BlackTimber-Labs/Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 5th, 2021, 5:03:32 AM
+Last Updated: Tuesday, October 5th, 2021, 6:06:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
