@@ -36,20 +36,6 @@ Last Updated: Thursday, November 4th, 2021, 1:12:54 PM
 
 <ul>
   <li>
-    <a href="https://dsc.community.dev/sies-graduate-school-of-technology/">Google DSC SIESGST</a> - 
-    <ul>
-      <li>
-        <b>Campus Lead</b> - <b>July 2021 - Present</b>
-      </li>
-      <li>
-        <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>
     <a href="http://hale-ai.com/">HaleAI</a> - 
     <ul>
       <li>
@@ -62,11 +48,31 @@ Last Updated: Thursday, November 4th, 2021, 1:12:54 PM
   </li>
 </ul>
 
-- [Team FullStack](https://teamfullstack.tech/) - <b>Course Director</b> - <b>March 2021 - Present</b>
 - [Cardinal LCA](https://cardinallca.com/) - <b>Frontend Developer</b> - <b>July 2021 - Present</b>
+- [Team FullStack](https://teamfullstack.tech/) - <b>Course Director</b> - <b>March 2021 - Present</b>
+
+# Positions of Responsibility
+
+<ul>
+  <li>
+    <a href="https://dsc.community.dev/sies-graduate-school-of-technology/">Google DSC SIESGST</a> - 
+    <ul>
+      <li>
+        <b>Campus Lead</b> - <b>July 2021 - Present</b>
+      </li>
+      <li>
+        <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 - [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
 - [IETE SIESGST](http://ideation.techxter.in/team.html) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
 - [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
+- [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>POC</b> - <b>Jul 2020 - Present</b>
+- [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
+- [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/) - <b>Core member (Class Representative)<b> - <b>Jul 2018 - Present</b>
 
 # Projects
 
@@ -121,18 +127,10 @@ Last Updated: Thursday, November 4th, 2021, 1:12:54 PM
     <td>87%</td>
   </tr>
  </table>
-    
-
-
-# Associations
-
-- [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>POC</b> - <b>Jul 2020 - Present</b>
-- [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
-- [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/) - <b>Core member (Class Representative)<b> - <b>Jul 2018 - Present</b>
-- App and Web Development GDP (GSTians Development Program) of SIES Graduate School of Technology
 
 # Volunteer Experience
 
+- [Flood Relief](https://drive.google.com/drive/folders/1g1qNxYeNRUOoXkljzwCMsyC2tjkH8oce?usp=sharing) Drive for Goonj NGO
 - Fundraising for [Bamanwada project](https://milaap.org/fundraisers/AnirudhBelwadi)
 - Event head - Tug of War - Cognition 2019 (the annual technical and [sports](https://www.instagram.com/sportsteam_siesgst/) fest of SIES Graduate School of Technology)
 
@@ -152,7 +150,8 @@ Last Updated: Thursday, November 4th, 2021, 1:12:54 PM
 - Full Stack Web Development
 - Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
 - Photography
-- Adobe softwares
+- Operation Systems: Windows, Ubuntu, Kali
+- Softwares
 <table>
   <tr>
     <th>Imaging</th>
@@ -166,7 +165,27 @@ Last Updated: Thursday, November 4th, 2021, 1:12:54 PM
     <th>Graphics and Prototyping</th>
     <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> <img src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000"> </td>
   </tr>
-</table>
+ </table>
+
+# Achievements
+- Best Project to solve a big AEC Problem
+  - Best Project to solve a big AEC Problem
+  - Project Link: https://learncarbon.me/
+- COVID-19 NATIONAL BIO INFORMATICS ONLINE HACKATHON FOR FULL STACKERS
+  - Anna University and IIT Bombay
+  - Finished in Top 25 out of 1000 teams from all over India
+- SIES Graduate School of Technology
+  - Most Enterprising Student in First Year
+  - Runnerup in Intercollegiate Quiz - MATRIX
+  - Runnerup in Tug of War
+- Runnerup in Tug of War
+  - Gaurav Puraskar
+  - Yogya Puraskar for Keyboard and Guitar
+  
+# Languages
+- <strong>Full professional proficiency:</strong> English, Hindi, Marathi
+- <strong>Native or bilingual proficiency:</strong> Kannada
+- <strong>Elementary proficiency:</strong> Tamil, Gujarati
 
 # Quick Links
 
