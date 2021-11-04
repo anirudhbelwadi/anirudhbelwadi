@@ -8,7 +8,7 @@
 
 A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
 
-The motto of my life is to be determined towards the software world and its development for the betterment in the standard of living of the society.
+My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
 # Status
 
