@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/collab/pull/1) in [anirudhbelwadi/collab](https://github.com/anirudhbelwadi/collab)
-2. 💪 Opened PR [#1](https://github.com/harshagr18/harshagr18.github.io/pull/1) in [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
-3. 🔱 Forked [anirudhbelwadi/harshagr18.github.io](https://github.com/anirudhbelwadi/harshagr18.github.io) from [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
-4. 💪 Opened PR [#7](https://github.com/harshagr18/HackerRank-Solutions/pull/7) in [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
-5. 🔱 Forked [anirudhbelwadi/HackerRank-Solutions](https://github.com/anirudhbelwadi/HackerRank-Solutions) from [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
+1. 💪 Opened PR [#1](https://github.com/harshagr18/harshagr18.github.io/pull/1) in [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
+2. 🔱 Forked [anirudhbelwadi/harshagr18.github.io](https://github.com/anirudhbelwadi/harshagr18.github.io) from [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
+3. 💪 Opened PR [#7](https://github.com/harshagr18/HackerRank-Solutions/pull/7) in [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
+4. 🔱 Forked [anirudhbelwadi/HackerRank-Solutions](https://github.com/anirudhbelwadi/HackerRank-Solutions) from [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
+5. 💪 Opened PR [#64](https://github.com/BlackTimber-Labs/Portfolio-Website/pull/64) in [BlackTimber-Labs/Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 6th, 2021, 10:04:33 AM
+Last Updated: Saturday, November 6th, 2021, 11:02:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
