@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/imsucharya/chatbot/pull/1) in [imsucharya/chatbot](https://github.com/imsucharya/chatbot)
-2. 🔱 Forked [anirudhbelwadi/chatbot](https://github.com/anirudhbelwadi/chatbot) from [imsucharya/chatbot](https://github.com/imsucharya/chatbot)
-3. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/mathpy/pull/1) in [anirudhbelwadi/mathpy](https://github.com/anirudhbelwadi/mathpy)
-4. 💪 Opened PR [#1](https://github.com/harshagr18/harshagr18.github.io/pull/1) in [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
-5. 🔱 Forked [anirudhbelwadi/harshagr18.github.io](https://github.com/anirudhbelwadi/harshagr18.github.io) from [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
+1. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/mathpy/pull/1) in [anirudhbelwadi/mathpy](https://github.com/anirudhbelwadi/mathpy)
+2. 💪 Opened PR [#1](https://github.com/harshagr18/harshagr18.github.io/pull/1) in [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
+3. 🔱 Forked [anirudhbelwadi/harshagr18.github.io](https://github.com/anirudhbelwadi/harshagr18.github.io) from [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
+4. 💪 Opened PR [#7](https://github.com/harshagr18/HackerRank-Solutions/pull/7) in [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
+5. 🔱 Forked [anirudhbelwadi/HackerRank-Solutions](https://github.com/anirudhbelwadi/HackerRank-Solutions) from [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 14th, 2021, 4:06:18 AM
+Last Updated: Sunday, November 14th, 2021, 5:03:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
