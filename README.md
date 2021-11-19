@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/mathpy/pull/1) in [anirudhbelwadi/mathpy](https://github.com/anirudhbelwadi/mathpy)
-2. 💪 Opened PR [#1](https://github.com/harshagr18/harshagr18.github.io/pull/1) in [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
-3. 🔱 Forked [anirudhbelwadi/harshagr18.github.io](https://github.com/anirudhbelwadi/harshagr18.github.io) from [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
-4. 💪 Opened PR [#7](https://github.com/harshagr18/HackerRank-Solutions/pull/7) in [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
-5. 🔱 Forked [anirudhbelwadi/HackerRank-Solutions](https://github.com/anirudhbelwadi/HackerRank-Solutions) from [harshagr18/HackerRank-Solutions](https://github.com/harshagr18/HackerRank-Solutions)
+1. 💪 Opened PR [#1](https://github.com/mrpkdeveloper/CodeConnect/pull/1) in [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
+2. 🔱 Forked [anirudhbelwadi/CodeConnect](https://github.com/anirudhbelwadi/CodeConnect) from [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
+3. ⭐ Starred [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
+4. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/mathpy/pull/1) in [anirudhbelwadi/mathpy](https://github.com/anirudhbelwadi/mathpy)
+5. 💪 Opened PR [#1](https://github.com/harshagr18/harshagr18.github.io/pull/1) in [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 19th, 2021, 8:04:41 PM
+Last Updated: Friday, November 19th, 2021, 8:52:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
