@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/mrpkdeveloper/CodeConnect/pull/1) in [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
-2. 🔱 Forked [anirudhbelwadi/CodeConnect](https://github.com/anirudhbelwadi/CodeConnect) from [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
-3. ⭐ Starred [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
-4. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/mathpy/pull/1) in [anirudhbelwadi/mathpy](https://github.com/anirudhbelwadi/mathpy)
-5. 💪 Opened PR [#1](https://github.com/harshagr18/harshagr18.github.io/pull/1) in [harshagr18/harshagr18.github.io](https://github.com/harshagr18/harshagr18.github.io)
+1. 🔱 Forked [anirudhbelwadi/Ishan7390.github.io](https://github.com/anirudhbelwadi/Ishan7390.github.io) from [Ishan7390/Ishan7390.github.io](https://github.com/Ishan7390/Ishan7390.github.io)
+2. 💪 Opened PR [#1](https://github.com/mrpkdeveloper/CodeConnect/pull/1) in [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
+3. 🔱 Forked [anirudhbelwadi/CodeConnect](https://github.com/anirudhbelwadi/CodeConnect) from [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
+4. ⭐ Starred [mrpkdeveloper/CodeConnect](https://github.com/mrpkdeveloper/CodeConnect)
+5. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/mathpy/pull/1) in [anirudhbelwadi/mathpy](https://github.com/anirudhbelwadi/mathpy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 21st, 2021, 11:02:51 AM
+Last Updated: Sunday, November 21st, 2021, 12:07:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
