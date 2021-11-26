@@ -76,6 +76,7 @@ Last Updated: Friday, November 26th, 2021, 1:45:09 AM
 
 # Projects
 
+- [Gist. Social Media Website](https://anirudhbelwadi.pythonanywhere.com)
 - [EntreSpace Website](https://entrespace.in/)
 - [Aaradhya Services Website](https://aaradhyaservices.in/)
 - [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
@@ -83,7 +84,7 @@ Last Updated: Friday, November 26th, 2021, 1:45:09 AM
 - [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
 - [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
 - [NETFLIX clone](https://netflix-clone-63163.web.app/)
-- [Gist. Social Media Website](https://github.com/anirudhbelwadi/Gist.-Social-Media-website)
+
 
 # Tech Stack
 
