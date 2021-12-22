@@ -33,7 +33,8 @@ Last Updated: Wednesday, December 22nd, 2021, 1:55:00 AM
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
 # Experience
-
+- [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Director</b> - <b>March 2021 - Present</b>
+- [Cardinal LCA](https://cardinallca.com/) - <b>Frontend Developer</b> - <b>July 2021 - Present</b>
 <ul>
   <li>
     <a href="http://hale-ai.com/">HaleAI</a> - 
@@ -47,9 +48,6 @@ Last Updated: Wednesday, December 22nd, 2021, 1:55:00 AM
     </ul>
   </li>
 </ul>
-
-- [Cardinal LCA](https://cardinallca.com/) - <b>Frontend Developer</b> - <b>July 2021 - Present</b>
-- [Team FullStack](https://teamfullstack.tech/) - <b>Course Director</b> - <b>March 2021 - Present</b>
 
 # Positions of Responsibility
 
