@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Team-FullStack/red-flower-consultancy-final](https://github.com/Team-FullStack/red-flower-consultancy-final)
-2. 📔 Created new repository [anirudhbelwadi/kritika-kharbanda-portfolio](https://github.com/anirudhbelwadi/kritika-kharbanda-portfolio)
-3. 📔 Created new repository [Team-FullStack/maheshwari-enterprise](https://github.com/Team-FullStack/maheshwari-enterprise)
-4. 📔 Created new repository [Red-Flower-Consultancy/website](https://github.com/Red-Flower-Consultancy/website)
+1. 🤝 Became collaborator on [Team-FullStack/latyton-home-care](https://github.com/Team-FullStack/latyton-home-care)
+2. 📔 Created new repository [Team-FullStack/red-flower-consultancy-final](https://github.com/Team-FullStack/red-flower-consultancy-final)
+3. 📔 Created new repository [anirudhbelwadi/kritika-kharbanda-portfolio](https://github.com/anirudhbelwadi/kritika-kharbanda-portfolio)
+4. 📔 Created new repository [Team-FullStack/maheshwari-enterprise](https://github.com/Team-FullStack/maheshwari-enterprise)
 5. 🔱 Forked [anirudhbelwadi/Ishan7390.github.io](https://github.com/anirudhbelwadi/Ishan7390.github.io) from [Ishan7390/Ishan7390.github.io](https://github.com/Ishan7390/Ishan7390.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 5th, 2022, 1:59:30 AM
+Last Updated: Sunday, March 6th, 2022, 1:58:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
