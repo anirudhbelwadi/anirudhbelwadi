@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Team-FullStack/maheshwari-enterprise](https://github.com/Team-FullStack/maheshwari-enterprise)
-2. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/Gist.-Social-Media-website/pull/1) in [anirudhbelwadi/Gist.-Social-Media-website](https://github.com/anirudhbelwadi/Gist.-Social-Media-website)
-3. 🤝 Became collaborator on [anirudhbelwadi/jessica-chen-portfolio](https://github.com/anirudhbelwadi/jessica-chen-portfolio)
-4. 🤝 Became collaborator on [Team-FullStack/latyton-home-care](https://github.com/Team-FullStack/latyton-home-care)
-5. 📔 Created new repository [Team-FullStack/red-flower-consultancy-final](https://github.com/Team-FullStack/red-flower-consultancy-final)
+1. 💪 Opened PR [#1](https://github.com/krkh-1702/SCI-6483/pull/1) in [krkh-1702/SCI-6483](https://github.com/krkh-1702/SCI-6483)
+2. 🔱 Forked [anirudhbelwadi/SCI-6483](https://github.com/anirudhbelwadi/SCI-6483) from [krkh-1702/SCI-6483](https://github.com/krkh-1702/SCI-6483)
+3. 🤝 Became collaborator on [Team-FullStack/maheshwari-enterprise](https://github.com/Team-FullStack/maheshwari-enterprise)
+4. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/Gist.-Social-Media-website/pull/1) in [anirudhbelwadi/Gist.-Social-Media-website](https://github.com/anirudhbelwadi/Gist.-Social-Media-website)
+5. 🤝 Became collaborator on [anirudhbelwadi/jessica-chen-portfolio](https://github.com/anirudhbelwadi/jessica-chen-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 26th, 2022, 2:12:22 AM
+Last Updated: Sunday, March 27th, 2022, 2:14:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
