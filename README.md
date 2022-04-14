@@ -174,6 +174,7 @@ Last Updated: Thursday, April 14th, 2022, 2:33:04 AM
   - Anna University and IIT Bombay
   - Finished in Top 25 out of 1000 teams from all over India
 - SIES Graduate School of Technology
+  - GSTian of the Year 2021-22
   - Most Enterprising Student in First Year
   - Runnerup in Intercollegiate Quiz - MATRIX
   - Runnerup in Tug of War
