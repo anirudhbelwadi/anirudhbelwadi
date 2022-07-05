@@ -32,72 +32,6 @@ Last Updated: Tuesday, July 5th, 2022, 3:06:14 AM
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
 
-# Experience
-- [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Director</b> - <b>March 2021 - Present</b>
-- [Cardinal LCA](https://cardinallca.com/) - <b>Frontend Developer</b> - <b>July 2021 - Present</b>
-<ul>
-  <li>
-    <a href="http://hale-ai.com/">HaleAI</a> - 
-    <ul>
-      <li>
-        <b>Full Stack Developer</b> - <b>Apr 2020 - Present</b>
-      </li>
-      <li>
-        <b>Full Stack Intern</b> - <b>Mar 2020 - Apr 2020</b>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-# Positions of Responsibility
-
-<ul>
-  <li>
-    <a href="https://dsc.community.dev/sies-graduate-school-of-technology/">Google DSC SIESGST</a> - 
-    <ul>
-      <li>
-        <b>Campus Lead</b> - <b>July 2021 - Present</b>
-      </li>
-      <li>
-        <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-- [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
-- [IETE SIESGST](http://ideation.techxter.in/team.html) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
-- [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
-- [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>POC</b> - <b>Jul 2020 - Present</b>
-- [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
-- [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/) - <b>Core member (Class Representative)<b> - <b>Jul 2018 - Present</b>
-
-# Projects
-
-- [Gist. Social Media Website](https://anirudhbelwadi.pythonanywhere.com)
-- [EntreSpace Website](https://entrespace.in/)
-- [Aaradhya Services Website](https://aaradhyaservices.in/)
-- [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
-- [Ideation 2020 Website](http://ideation.techxter.in/)
-- [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
-- [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
-- [NETFLIX clone](https://netflix-clone-63163.web.app/)
-
-
-# Tech Stack
-
-### Front End
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Android-9FC037?style=for-the-badge&logo=android&logoColor=white">
-
-### Back End
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
-
-### Deployment Platforms
-
-<img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
-
 # Education
 
 <table>
@@ -127,6 +61,59 @@ Last Updated: Tuesday, July 5th, 2022, 3:06:14 AM
   </tr>
  </table>
 
+# Experience
+- [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Chief Technology Office</b> - <b>March 2021 - Present</b>
+- [Cardinal LCA](https://cardinallca.com/) - <b>Web Development Internb</b> - <b>July 2021 - Present</b>
+- [Aaradhya Services](https://aaradhyaservices.in/) - <b>Freelenace Website Developer</b> - <b>Jun 2021 - Jul 2021</b>
+- [HaleAI](http://13.232.87.90/) - <b>Full Stack Development Intern</b> - <b>Mar 2020 - Jun 2021 </b>
+- [EntreSpace](https://entrespace.in/) - <b>Freelance Web Developer</b> - <b>Feb 2021 - Mar 2021</b>
+
+# Positions of Responsibility
+
+<ul>
+  <li>
+    <a href="https://dsc.community.dev/sies-graduate-school-of-technology/">Google DSC SIESGST</a> - 
+    <ul>
+      <li>
+        <b>Campus Lead</b> - <b>July 2021 - Present</b>
+      </li>
+      <li>
+        <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+- [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
+- [IETE SIESGST](http://ideation.techxter.in/team.html) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
+- [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
+- [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>Head</b> - <b>Jun 2018 - Jun 2022</b>
+- [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
+- [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/) - <b>Core member (Class Representative)<b> - <b>Jul 2018 - Present</b>
+
+# Projects
+
+- [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
+- [Gist. Social Media Website](https://anirudhbelwadi.pythonanywhere.com)
+- [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
+- [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
+- [Ideation 2020 Website](http://ideation.techxter.in/)
+- [Mathematical library in python](https://github.com/snehil03july/mathpy)
+
+# Tech Stack
+
+### Front End
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Android-9FC037?style=for-the-badge&logo=android&logoColor=white">
+
+### Back End
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
+
+### Deployment Platforms
+
+<img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google&logoColor=white">
+
 # Volunteer Experience
 
 - [Flood Relief](https://drive.google.com/drive/folders/1g1qNxYeNRUOoXkljzwCMsyC2tjkH8oce?usp=sharing) Drive for Goonj NGO
@@ -136,13 +123,13 @@ Last Updated: Tuesday, July 5th, 2022, 3:06:14 AM
 # Licences and Certifications
 
 - [Bugsquash - a 72 hour Online Project Building Competition](https://drive.google.com/file/d/1Fr8_9unEv_wTL-XKSomTqU1P2wVBykRU/view?usp=sharing)
-- [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
-- [Python Programming - MyCaptain](https://drive.google.com/file/d/16Mce4eaoFY7ZRBlPz6tjbODy_RCH_qGK/view)
-- [Skill Badges in Qwiklabs](https://google.qwiklabs.com/public_profiles/c5d56831-78d1-4981-bde6-a2fb42576042)
 - [MetaCTF CyberGames 2020 Participation](https://drive.google.com/file/d/1Uijh4inUfXJo93oLlmL70uoEJ_jPbsTF/view)
+- [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
+- [Skill Badges in Qwiklabs](https://google.qwiklabs.com/public_profiles/c5d56831-78d1-4981-bde6-a2fb42576042)
 - [AWS Builders Online Series](https://drive.google.com/file/d/1fnzVgtJMJEY9A_qigD1lqVokC82uI-BU/view)
 - [Amazon S3 Primer](https://drive.google.com/file/d/1unL6rR-2voL36FmWxZKD0L1Ggr057rBj/view)
 - [Introduction to Amazon S3](https://drive.google.com/file/d/1VoNjAo5m7TwcZOS9kAz-uwircQEtPTDR/view)
+- [Python Programming - MyCaptain](https://drive.google.com/file/d/16Mce4eaoFY7ZRBlPz6tjbODy_RCH_qGK/view)
 
 # Skills
 
