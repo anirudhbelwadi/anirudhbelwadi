@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/krkh-1702/SCI-6483/pull/1) in [krkh-1702/SCI-6483](https://github.com/krkh-1702/SCI-6483)
-2. 🔱 Forked [anirudhbelwadi/SCI-6483](https://github.com/anirudhbelwadi/SCI-6483) from [krkh-1702/SCI-6483](https://github.com/krkh-1702/SCI-6483)
+1. 🎉 Merged PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
+2. 💪 Opened PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
 3. 🤝 Became collaborator on [Team-FullStack/maheshwari-enterprise](https://github.com/Team-FullStack/maheshwari-enterprise)
 4. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/Gist.-Social-Media-website/pull/1) in [anirudhbelwadi/Gist.-Social-Media-website](https://github.com/anirudhbelwadi/Gist.-Social-Media-website)
 5. 🤝 Became collaborator on [anirudhbelwadi/jessica-chen-portfolio](https://github.com/anirudhbelwadi/jessica-chen-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 17th, 2022, 3:07:12 AM
+Last Updated: Monday, July 18th, 2022, 3:02:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
