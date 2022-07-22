@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
-2. 💪 Opened PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
-3. 🤝 Became collaborator on [Team-FullStack/maheshwari-enterprise](https://github.com/Team-FullStack/maheshwari-enterprise)
+1. 📔 Created new repository [anirudhbelwadi/jessica_chen_portfolio](https://github.com/anirudhbelwadi/jessica_chen_portfolio)
+2. 🎉 Merged PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
+3. 💪 Opened PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
 4. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/Gist.-Social-Media-website/pull/1) in [anirudhbelwadi/Gist.-Social-Media-website](https://github.com/anirudhbelwadi/Gist.-Social-Media-website)
 5. 🤝 Became collaborator on [anirudhbelwadi/jessica-chen-portfolio](https://github.com/anirudhbelwadi/jessica-chen-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 21st, 2022, 3:04:54 AM
+Last Updated: Friday, July 22nd, 2022, 3:09:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
