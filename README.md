@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/1) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-2. 📔 Created new repository [anirudhbelwadi/jessica_chen_portfolio](https://github.com/anirudhbelwadi/jessica_chen_portfolio)
-3. 🎉 Merged PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
-4. 💪 Opened PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
-5. 🤝 Became collaborator on [anirudhbelwadi/jessica-chen-portfolio](https://github.com/anirudhbelwadi/jessica-chen-portfolio)
+1. 🎉 Merged PR [#2](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/2) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+2. 🎉 Merged PR [#1](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/1) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+3. 📔 Created new repository [anirudhbelwadi/jessica_chen_portfolio](https://github.com/anirudhbelwadi/jessica_chen_portfolio)
+4. 🎉 Merged PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
+5. 💪 Opened PR [#1](https://github.com/TEDxSIESGST/2022-website/pull/1) in [TEDxSIESGST/2022-website](https://github.com/TEDxSIESGST/2022-website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 29th, 2022, 3:14:01 AM
+Last Updated: Saturday, July 30th, 2022, 3:05:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
