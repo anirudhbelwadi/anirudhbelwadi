@@ -62,7 +62,8 @@ Last Updated: Wednesday, October 12th, 2022, 3:27:43 AM
  </table>
 
 # Experience
-- [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Chief Technology Office</b> - <b>March 2021 - Present</b>
+- [Jio Platforms Limites](https://www.jio.com/) - <b>Assistant Manger</b> - <b>July 2022 - Present</b>
+- [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Chief Technology Office</b> - <b>March 2021 - July 2022</b>
 - [Cardinal LCA](https://cardinallca.com/) - <b>Web Development Internb</b> - <b>July 2021 - Present</b>
 - [Aaradhya Services](https://aaradhyaservices.in/) - <b>Freelenace Website Developer</b> - <b>Jun 2021 - Jul 2021</b>
 - [HaleAI](http://13.232.87.90/) - <b>Full Stack Development Intern</b> - <b>Mar 2020 - Jun 2021 </b>
