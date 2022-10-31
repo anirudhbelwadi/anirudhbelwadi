@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [milind-palav-portfolio/portfolio](https://github.com/milind-palav-portfolio/portfolio)
-2. 💪 Opened PR [#656](https://github.com/acmbvp/Hacktoberfest/pull/656) in [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
-3. 🔱 Forked [anirudhbelwadi/Hacktoberfest](https://github.com/anirudhbelwadi/Hacktoberfest) from [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
-4. ⭐ Starred [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
-5. 💪 Opened PR [#3831](https://github.com/keshavsingh4522/hacktoberfest2021/pull/3831) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+1. 💪 Opened PR [#2](https://github.com/ISTE-SIESGST/website/pull/2) in [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
+2. 💪 Opened PR [#1](https://github.com/ISTE-SIESGST/website/pull/1) in [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
+3. 🔱 Forked [anirudhbelwadi/website](https://github.com/anirudhbelwadi/website) from [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
+4. 📔 Created new repository [milind-palav-portfolio/portfolio](https://github.com/milind-palav-portfolio/portfolio)
+5. 💪 Opened PR [#656](https://github.com/acmbvp/Hacktoberfest/pull/656) in [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 30th, 2022, 3:13:27 AM
+Last Updated: Monday, October 31st, 2022, 3:10:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
