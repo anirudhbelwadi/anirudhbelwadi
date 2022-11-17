@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [LearnCarbon/learncarbon.github.io](https://github.com/LearnCarbon/learncarbon.github.io)
-2. 💪 Opened PR [#2](https://github.com/ISTE-SIESGST/website/pull/2) in [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
-3. 💪 Opened PR [#1](https://github.com/ISTE-SIESGST/website/pull/1) in [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
-4. 🔱 Forked [anirudhbelwadi/website](https://github.com/anirudhbelwadi/website) from [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
-5. 📔 Created new repository [milind-palav-portfolio/portfolio](https://github.com/milind-palav-portfolio/portfolio)
+1. 📔 Created new repository [anirudhbelwadi/EHCC-website](https://github.com/anirudhbelwadi/EHCC-website)
+2. 📔 Created new repository [LearnCarbon/learncarbon.github.io](https://github.com/LearnCarbon/learncarbon.github.io)
+3. 💪 Opened PR [#2](https://github.com/ISTE-SIESGST/website/pull/2) in [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
+4. 💪 Opened PR [#1](https://github.com/ISTE-SIESGST/website/pull/1) in [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
+5. 🔱 Forked [anirudhbelwadi/website](https://github.com/anirudhbelwadi/website) from [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 16th, 2022, 2:44:55 AM
+Last Updated: Thursday, November 17th, 2022, 2:39:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
