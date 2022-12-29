@@ -62,7 +62,9 @@ Last Updated: Thursday, December 29th, 2022, 2:05:30 AM
  </table>
 
 # Experience
-- [Jio Platforms Limited](https://www.jio.com/) - <b>Assistant Manger</b> - <b>July 2022 - Present</b>
+- [Jio Platforms Limited](https://www.jio.com/)
+  - <b>Full Stack Developer</b> - <b>December 2022 - Present</b>
+  - <b>Assistant Manger</b> - <b>July 2022 - December 2022</b>
 - [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Chief Technology Office</b> - <b>March 2021 - July 2022</b>
 - [Cardinal LCA](https://cardinallca.com/) - <b>Web Development Internb</b> - <b>July 2021 - Present</b>
 - [Aaradhya Services](https://aaradhyaservices.in/) - <b>Freelenace Website Developer</b> - <b>Jun 2021 - Jul 2021</b>
