@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/3) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-2. 📔 Created new repository [anirudhbelwadi/EHCC-website](https://github.com/anirudhbelwadi/EHCC-website)
-3. 📔 Created new repository [LearnCarbon/learncarbon.github.io](https://github.com/LearnCarbon/learncarbon.github.io)
-4. 💪 Opened PR [#2](https://github.com/ISTE-SIESGST/website/pull/2) in [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
-5. 💪 Opened PR [#1](https://github.com/ISTE-SIESGST/website/pull/1) in [ISTE-SIESGST/website](https://github.com/ISTE-SIESGST/website)
+1. ❌ Closed PR [#3831](https://github.com/keshavsingh4522/hacktoberfest2021/pull/3831) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+2. ❌ Closed PR [#656](https://github.com/acmbvp/Hacktoberfest/pull/656) in [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
+3. 🎉 Merged PR [#3](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/3) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+4. 📔 Created new repository [anirudhbelwadi/EHCC-website](https://github.com/anirudhbelwadi/EHCC-website)
+5. 📔 Created new repository [LearnCarbon/learncarbon.github.io](https://github.com/LearnCarbon/learncarbon.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 29th, 2022, 2:05:30 AM
+Last Updated: Friday, December 30th, 2022, 2:05:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
