@@ -73,24 +73,16 @@ Last Updated: Friday, January 20th, 2023, 2:12:54 AM
 
 # Positions of Responsibility
 
-<ul>
-  <li>
-    <a href="https://dsc.community.dev/sies-graduate-school-of-technology/">Google DSC SIESGST</a> - 
-    <ul>
-      <li>
-        <b>Campus Lead</b> - <b>July 2021 - Present</b>
-      </li>
-      <li>
-        <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
-      </li>
-    </ul>
-  </li>
-</ul>
-
+- [Google DSC SIESGST](https://dsc.community.dev/sies-graduate-school-of-technology/)
+  - <b>Campus Lead</b> - <b>July 2021 - Present</b>
+  - <b>Administrator</b> - <b>Aug 2020 - July 2021</b>
 - [ISTE SIESGST](https://www.linkedin.com/company/iste-sies-gst/) - <b>Techinal Head</b> - <b>Jan 2021 - Present</b>
 - [IETE SIESGST](http://ideation.techxter.in/team.html) - <b>Techinal Coordinator</b> - <b>Oct 2020 - Present</b>
 - [TEDxSIESGST](https://tedxsiesgst.live/our-team/) - <b>Core Team Member</b> - <b>Jul 2019 - Oct 2020</b>
-- [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology) - <b>Head</b> - <b>Jun 2018 - Jun 2022</b>
+- [Aaroha](https://www.instagram.com/aaroha_siesgst/) (Music club of SIES Graduate School of Technology)
+  - <b>Head</b> - <b>Jun 2021 - Jun 2022</b>
+  - <b>Point Of Contact</b> - <b>Jun 2020 - Jun 2021</b>
+  - <b>Member</b> - <b>Jun 2018 - Jun 2022</b>
 - [Media Team SIESGST](https://www.instagram.com/mediateam_siesgst/) - <b>Media Volunteer</b> - <b>Sep 2020 - Present</b>
 - [SIES GST Student Council](https://www.linkedin.com/company/sies-gst-students-council/) - <b>Core member (Class Representative)<b> - <b>Jul 2018 - Present</b>
 
