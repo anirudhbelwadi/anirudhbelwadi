@@ -66,7 +66,7 @@ Last Updated: Tuesday, February 14th, 2023, 2:15:41 AM
   - <b>Full Stack Developer</b> - <b>December 2022 - Present</b>
   - <b>Graduate Enginner Trainee</b> - <b>July 2022 - December 2022</b>
 - [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Chief Technology Office</b> - <b>March 2021 - July 2022</b>
-- [Cardinal LCA](https://cardinallca.com/) - <b>Web Development Internb</b> - <b>July 2021 - Present</b>
+- [Cardinal LCA](https://cardinallca.com/) - <b>Web Development Intern</b> - <b>July 2021 - Present</b>
 - [Aaradhya Services](https://aaradhyaservices.in/) - <b>Freelenace Website Developer</b> - <b>Jun 2021 - Jul 2021</b>
 - [HaleAI](http://13.232.87.90/) - <b>Full Stack Development Intern</b> - <b>Mar 2020 - Jun 2021 </b>
 - [EntreSpace](https://entrespace.in/) - <b>Freelance Web Developer</b> - <b>Feb 2021 - Mar 2021</b>
