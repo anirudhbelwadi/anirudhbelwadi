@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [anirudhbelwadi/test](https://github.com/anirudhbelwadi/test)
-2. 📔 Created new repository [Team-FullStack/test](https://github.com/Team-FullStack/test)
-3. ❌ Closed PR [#3831](https://github.com/keshavsingh4522/hacktoberfest2021/pull/3831) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
-4. ❌ Closed PR [#656](https://github.com/acmbvp/Hacktoberfest/pull/656) in [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
-5. 📔 Created new repository [LearnCarbon/learncarbon.github.io](https://github.com/LearnCarbon/learncarbon.github.io)
+1. ❌ Closed PR [#4400](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4400) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+2. ⭐ Starred [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+3. 💪 Opened PR [#4400](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4400) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+4. 🔱 Forked [anirudhbelwadi/Hacktoberfest2023](https://github.com/anirudhbelwadi/Hacktoberfest2023) from [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+5. 📔 Created new repository [anirudhbelwadi/test](https://github.com/anirudhbelwadi/test)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 29th, 2023, 1:39:48 AM
+Last Updated: Saturday, September 30th, 2023, 1:37:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
