@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#69](https://github.com/srajankumar/pullquest/pull/69) in [srajankumar/pullquest](https://github.com/srajankumar/pullquest)
-2. 🔱 Forked [anirudhbelwadi/pullquest](https://github.com/anirudhbelwadi/pullquest) from [srajankumar/pullquest](https://github.com/srajankumar/pullquest)
-3. 💪 Opened PR [#129](https://github.com/RajkumarSony/Famous-Places/pull/129) in [RajkumarSony/Famous-Places](https://github.com/RajkumarSony/Famous-Places)
-4. 🔱 Forked [anirudhbelwadi/Famous-Places](https://github.com/anirudhbelwadi/Famous-Places) from [RajkumarSony/Famous-Places](https://github.com/RajkumarSony/Famous-Places)
-5. 💪 Opened PR [#23](https://github.com/SuriyaaVijay/HacktoberFest2023/pull/23) in [SuriyaaVijay/HacktoberFest2023](https://github.com/SuriyaaVijay/HacktoberFest2023)
+1. 🔱 Forked [anirudhbelwadi/hacktoberfest](https://github.com/anirudhbelwadi/hacktoberfest) from [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
+2. 💪 Opened PR [#69](https://github.com/srajankumar/pullquest/pull/69) in [srajankumar/pullquest](https://github.com/srajankumar/pullquest)
+3. 🔱 Forked [anirudhbelwadi/pullquest](https://github.com/anirudhbelwadi/pullquest) from [srajankumar/pullquest](https://github.com/srajankumar/pullquest)
+4. 💪 Opened PR [#129](https://github.com/RajkumarSony/Famous-Places/pull/129) in [RajkumarSony/Famous-Places](https://github.com/RajkumarSony/Famous-Places)
+5. 🔱 Forked [anirudhbelwadi/Famous-Places](https://github.com/anirudhbelwadi/Famous-Places) from [RajkumarSony/Famous-Places](https://github.com/RajkumarSony/Famous-Places)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 2nd, 2023, 1:40:51 AM
+Last Updated: Tuesday, October 3rd, 2023, 1:40:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
