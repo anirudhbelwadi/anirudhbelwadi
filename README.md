@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [anirudhbelwadi/hacktoberfest](https://github.com/anirudhbelwadi/hacktoberfest) from [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
-2. 💪 Opened PR [#69](https://github.com/srajankumar/pullquest/pull/69) in [srajankumar/pullquest](https://github.com/srajankumar/pullquest)
-3. 🔱 Forked [anirudhbelwadi/pullquest](https://github.com/anirudhbelwadi/pullquest) from [srajankumar/pullquest](https://github.com/srajankumar/pullquest)
-4. 💪 Opened PR [#129](https://github.com/RajkumarSony/Famous-Places/pull/129) in [RajkumarSony/Famous-Places](https://github.com/RajkumarSony/Famous-Places)
-5. 🔱 Forked [anirudhbelwadi/Famous-Places](https://github.com/anirudhbelwadi/Famous-Places) from [RajkumarSony/Famous-Places](https://github.com/RajkumarSony/Famous-Places)
+1. 💪 Opened PR [#569](https://github.com/dscpesu/my-first-opensource-contribution/pull/569) in [dscpesu/my-first-opensource-contribution](https://github.com/dscpesu/my-first-opensource-contribution)
+2. 🔱 Forked [anirudhbelwadi/my-first-opensource-contribution](https://github.com/anirudhbelwadi/my-first-opensource-contribution) from [dscpesu/my-first-opensource-contribution](https://github.com/dscpesu/my-first-opensource-contribution)
+3. 💪 Opened PR [#313](https://github.com/dixitt5/CP-Solutions/pull/313) in [dixitt5/CP-Solutions](https://github.com/dixitt5/CP-Solutions)
+4. 🔱 Forked [anirudhbelwadi/CP-Solutions](https://github.com/anirudhbelwadi/CP-Solutions) from [dixitt5/CP-Solutions](https://github.com/dixitt5/CP-Solutions)
+5. 🔱 Forked [anirudhbelwadi/hacktoberfest](https://github.com/anirudhbelwadi/hacktoberfest) from [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 13th, 2023, 1:43:00 AM
+Last Updated: Saturday, October 14th, 2023, 1:37:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
