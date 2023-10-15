@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#569](https://github.com/dscpesu/my-first-opensource-contribution/pull/569) in [dscpesu/my-first-opensource-contribution](https://github.com/dscpesu/my-first-opensource-contribution)
-2. 🔱 Forked [anirudhbelwadi/my-first-opensource-contribution](https://github.com/anirudhbelwadi/my-first-opensource-contribution) from [dscpesu/my-first-opensource-contribution](https://github.com/dscpesu/my-first-opensource-contribution)
-3. 💪 Opened PR [#313](https://github.com/dixitt5/CP-Solutions/pull/313) in [dixitt5/CP-Solutions](https://github.com/dixitt5/CP-Solutions)
-4. 🔱 Forked [anirudhbelwadi/CP-Solutions](https://github.com/anirudhbelwadi/CP-Solutions) from [dixitt5/CP-Solutions](https://github.com/dixitt5/CP-Solutions)
-5. 🔱 Forked [anirudhbelwadi/hacktoberfest](https://github.com/anirudhbelwadi/hacktoberfest) from [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
+1. 🔱 Forked [anirudhbelwadi/Hacktoberfest2023-temp4](https://github.com/anirudhbelwadi/Hacktoberfest2023-temp4) from [Kaishav65/Hacktoberfest2023](https://github.com/Kaishav65/Hacktoberfest2023)
+2. 💪 Opened PR [#80](https://github.com/DecodersCommunity/portfolio-builder/pull/80) in [DecodersCommunity/portfolio-builder](https://github.com/DecodersCommunity/portfolio-builder)
+3. 🔱 Forked [anirudhbelwadi/portfolio-builder](https://github.com/anirudhbelwadi/portfolio-builder) from [DecodersCommunity/portfolio-builder](https://github.com/DecodersCommunity/portfolio-builder)
+4. 💪 Opened PR [#569](https://github.com/dscpesu/my-first-opensource-contribution/pull/569) in [dscpesu/my-first-opensource-contribution](https://github.com/dscpesu/my-first-opensource-contribution)
+5. 🔱 Forked [anirudhbelwadi/my-first-opensource-contribution](https://github.com/anirudhbelwadi/my-first-opensource-contribution) from [dscpesu/my-first-opensource-contribution](https://github.com/dscpesu/my-first-opensource-contribution)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 14th, 2023, 1:37:47 AM
+Last Updated: Sunday, October 15th, 2023, 1:44:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
