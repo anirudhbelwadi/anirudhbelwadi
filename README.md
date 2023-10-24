@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [anirudhbelwadi/Hacktober2023](https://github.com/anirudhbelwadi/Hacktober2023) from [aaditya25052002/Hacktober2023](https://github.com/aaditya25052002/Hacktober2023)
-2. 💪 Opened PR [#310](https://github.com/ossamamehmood/Hacktoberfest2023/pull/310) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-3. 🔱 Forked [anirudhbelwadi/Hacktoberfest2023a](https://github.com/anirudhbelwadi/Hacktoberfest2023a) from [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-4. 💪 Opened PR [#83](https://github.com/udeannn/Hacktoberfest2023/pull/83) in [udeannn/Hacktoberfest2023](https://github.com/udeannn/Hacktoberfest2023)
-5. 🔱 Forked [anirudhbelwadi/Hacktoberfest2023](https://github.com/anirudhbelwadi/Hacktoberfest2023) from [udeannn/Hacktoberfest2023](https://github.com/udeannn/Hacktoberfest2023)
+1. 💪 Opened PR [#1085](https://github.com/Midway91/HactoberFest2023/pull/1085) in [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
+2. 🔱 Forked [anirudhbelwadi/HactoberFest2023](https://github.com/anirudhbelwadi/HactoberFest2023) from [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
+3. 🔱 Forked [anirudhbelwadi/Hacktober2023](https://github.com/anirudhbelwadi/Hacktober2023) from [aaditya25052002/Hacktober2023](https://github.com/aaditya25052002/Hacktober2023)
+4. 💪 Opened PR [#310](https://github.com/ossamamehmood/Hacktoberfest2023/pull/310) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+5. 🔱 Forked [anirudhbelwadi/Hacktoberfest2023a](https://github.com/anirudhbelwadi/Hacktoberfest2023a) from [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 23rd, 2023, 1:41:04 AM
+Last Updated: Tuesday, October 24th, 2023, 1:40:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
