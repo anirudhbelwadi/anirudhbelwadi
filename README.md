@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [snehil03july/mathpy](https://github.com/snehil03july/mathpy)
-2. 💪 Opened PR [#1085](https://github.com/Midway91/HactoberFest2023/pull/1085) in [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
-3. 🔱 Forked [anirudhbelwadi/HactoberFest2023](https://github.com/anirudhbelwadi/HactoberFest2023) from [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
-4. 🔱 Forked [anirudhbelwadi/Hacktober2023](https://github.com/anirudhbelwadi/Hacktober2023) from [aaditya25052002/Hacktober2023](https://github.com/aaditya25052002/Hacktober2023)
-5. 💪 Opened PR [#310](https://github.com/ossamamehmood/Hacktoberfest2023/pull/310) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+1. 🎉 Merged PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+2. 💪 Opened PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+3. ⭐ Starred [snehil03july/mathpy](https://github.com/snehil03july/mathpy)
+4. 💪 Opened PR [#1085](https://github.com/Midway91/HactoberFest2023/pull/1085) in [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
+5. 🔱 Forked [anirudhbelwadi/HactoberFest2023](https://github.com/anirudhbelwadi/HactoberFest2023) from [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 13th, 2023, 1:44:30 AM
+Last Updated: Tuesday, November 14th, 2023, 1:42:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
