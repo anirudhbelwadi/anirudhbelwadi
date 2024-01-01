@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [anirudhbelwadi/ideation-2020](https://github.com/anirudhbelwadi/ideation-2020)
-2. 🎉 Merged PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-3. 💪 Opened PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-4. ⭐ Starred [snehil03july/mathpy](https://github.com/snehil03july/mathpy)
-5. 💪 Opened PR [#1085](https://github.com/Midway91/HactoberFest2023/pull/1085) in [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
+1. 👍 Approved [#1](https://github.com/EXIMPLIFY/website/pull/1#pullrequestreview-1799605929) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
+2. 👍 Approved [#1](https://github.com/EXIMPLIFY/website/pull/1#pullrequestreview-1799603463) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
+3. 📔 Created new repository [anirudhbelwadi/ideation-2020](https://github.com/anirudhbelwadi/ideation-2020)
+4. 🎉 Merged PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+5. 💪 Opened PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 31st, 2023, 1:50:31 AM
+Last Updated: Monday, January 1st, 2024, 1:54:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
