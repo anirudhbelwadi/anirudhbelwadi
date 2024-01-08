@@ -19,15 +19,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/EXIMPLIFY/website/pull/1#pullrequestreview-1799605929) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
-2. 👍 Approved [#1](https://github.com/EXIMPLIFY/website/pull/1#pullrequestreview-1799603463) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
-3. 📔 Created new repository [anirudhbelwadi/ideation-2020](https://github.com/anirudhbelwadi/ideation-2020)
-4. 🎉 Merged PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-5. 💪 Opened PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+1. 🎉 Merged PR [#2](https://github.com/EXIMPLIFY/website/pull/2) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
+2. 👍 Approved [#2](https://github.com/EXIMPLIFY/website/pull/2#pullrequestreview-1807757510) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
+3. 👍 Approved [#1](https://github.com/EXIMPLIFY/website/pull/1#pullrequestreview-1799605929) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
+4. 👍 Approved [#1](https://github.com/EXIMPLIFY/website/pull/1#pullrequestreview-1799603463) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
+5. 📔 Created new repository [anirudhbelwadi/ideation-2020](https://github.com/anirudhbelwadi/ideation-2020)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 7th, 2024, 1:54:10 AM
+Last Updated: Monday, January 8th, 2024, 1:48:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
