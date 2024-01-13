@@ -14,18 +14,6 @@ My motto of being determined towards the software world and its development for 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
-## Recent Activity
-
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/EXIMPLIFY/website/pull/4) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
-2. 💪 Opened PR [#4](https://github.com/EXIMPLIFY/website/pull/4) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
-3. 🎉 Merged PR [#3](https://github.com/EXIMPLIFY/website/pull/3) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
-4. 👍 Approved [#3](https://github.com/EXIMPLIFY/website/pull/3#pullrequestreview-1814611516) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
-5. 🎉 Merged PR [#2](https://github.com/EXIMPLIFY/website/pull/2) in [EXIMPLIFY/website](https://github.com/EXIMPLIFY/website)
-<!--RECENT_ACTIVITY:end-->
-
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, January 13th, 2024, 1:45:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
