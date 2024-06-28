@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-<h3><i>Spare some time to take a look at my <a onclick="window.open('https://anirudhbelwadi.com', '_blank').focus()">portfolio</a>!</i></h3>
+<h3><i>Spare some time to take a look at my <a href="https://anirudhbelwadi.com">portfolio</a>!</i></h3>
 
 <a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
 
