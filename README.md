@@ -30,10 +30,16 @@ Last Updated: Saturday, January 13th, 2024, 1:45:15 AM
     <th>Score</th>
   </tr>
   <tr>
+    <td>Master of Information Systems Management</td>
+    <td><a href="https://www.cmu.edu/">Carengie Mellon Univeristy</a></td>
+    <td>2024 - Present</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>B.E. in Computer Engineering</td>
     <td><a href="https://mu.ac.in/">Mumbai University</a></td>
     <td>2022</td>
-    <td>8.76 CGPA (Current)</td>
+    <td>8.8 CGPA</td>
   </tr>
   <tr>
     <td>Higher Secondary Certification</td>
