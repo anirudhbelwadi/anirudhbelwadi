@@ -51,7 +51,7 @@ Last Updated: Saturday, January 13th, 2024, 1:45:15 AM
 
 # Experience
 - [Jio Platforms Limited](https://www.jio.com/)
-  - <b>Full Stack Developer</b> - <b>December 2022 - Present</b>
+  - <b>Full Stack Developer</b> - <b>December 2022 - April 2024</b>
   - <b>Graduate Enginner Trainee</b> - <b>July 2022 - December 2022</b>
 - [Team FullStack](https://teamfullstack.tech/) - <b>Founder & Chief Technology Office</b> - <b>March 2021 - July 2022</b>
 - [Cardinal LCA](https://cardinallca.com/) - <b>Web Development Intern</b> - <b>July 2021 - Present</b>
