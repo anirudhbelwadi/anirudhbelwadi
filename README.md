@@ -11,8 +11,7 @@ A passionate individual who loves building web applications, a developer and mus
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
 # Status
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anirudhbelwadi&theme=dark)](https://git.io/streak-stats)
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, January 13th, 2024, 1:45:15 AM
