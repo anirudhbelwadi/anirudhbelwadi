@@ -55,6 +55,7 @@ Last Updated: Saturday, January 13th, 2024, 1:45:15 AM
  </table>
 
 # Experience
+- [CMU Safe AI Lab](https://safeai-lab.github.io/) - <b>Website Designer</b> - <b>October 2024 - Present</b>
 - [Jio Platforms Limited](https://www.jio.com/)
   - <b>Full Stack Developer</b> - <b>December 2022 - April 2024</b>
   - <b>Graduate Enginner Trainee</b> - <b>July 2022 - December 2022</b>
