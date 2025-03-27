@@ -31,7 +31,7 @@ My motto of being determined towards the software world and its development for 
     <td>Master of Information Systems Management</td>
     <td><a href="https://www.cmu.edu/">Carengie Mellon Univeristy</a></td>
     <td>2024 - Present</td>
-    <td>-</td>
+    <td>3.27 GPA</td>
   </tr>
   <tr>
     <td>B.E. in Computer Engineering</td>
