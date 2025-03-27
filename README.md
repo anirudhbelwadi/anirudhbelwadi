@@ -10,7 +10,13 @@ A passionate individual who loves building web applications, a developer and mus
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
+# Status
+
 ![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
+
+![GitHubStreak](https://nirzak-streak-stats.vercel.app/?user=anirudhbelwadi&theme=dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 # Education
 
