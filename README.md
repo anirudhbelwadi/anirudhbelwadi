@@ -2,13 +2,15 @@
 
 <h3><i>Spare some time to take a look at my <a href="https://anirudhbelwadi.com">portfolio</a>!</i></h3>
 
-<a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
-
 # About myself
 
-A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
+<img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300">
 
-My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
+I am a Full Stack Developer, who works on web-based applications. I understand and implement business logic with building robust microservices that facilitate highly responsive user interfaces.
+
+I graduated with a Bachelor of Engineering in Computer Engineering from University of Mumbai in 2022, where I also founded and led Team FullStack, a successful start-up that employed trained students to provide digital services to client companies. I was awarded the first place in Global Student Entrepreneur Awards at Hyderabad, India, and identified among the top 500 Innopreneurs International Startup Contest. I also trained over 200 students in domains like Full Stack Development, Graphic Designing, and Digital Marketing.
+
+I am passionate about building web applications that improve the standard of living of the society, and I constantly seek to learn new technologies and skills. I have multiple certifications in Python programming and Amazon Web Services, and I have experience in IoT development, website development, and testing. I am also a musician, singer, and photographer, and I enjoy expressing my creativity through these art forms.
 
 # Status
 
