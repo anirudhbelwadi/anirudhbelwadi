@@ -55,7 +55,7 @@ My motto of being determined towards the software world and its development for 
 
 # Experience
 - [Amazon](https://amazon.com/) - <b>Incoming SDE Intern</b> - <b>May 2025 - August 2025</b>
-- [CMU | Master of Software Engineering](https://safeai-lab.github.io/) - <b>Teaching Assistant for Software Architectures</b> - <b>Jan 2025 - Mar 2025</b>
+- [CMU | Master of Software Engineering](https://mse.s3d.cmu.edu/) - <b>Teaching Assistant for Software Architectures</b> - <b>Jan 2025 - Mar 2025</b>
 - [CMU | Safe AI Lab](https://safeai-lab.github.io/) - <b>Research Assistant</b> - <b>October 2024 - Dec 2024</b>
 - [Jio Platforms Limited](https://www.jio.com/)
   - <b>Full Stack Developer</b> - <b>December 2022 - April 2024</b>
