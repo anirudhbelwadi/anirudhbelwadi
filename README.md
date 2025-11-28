@@ -56,7 +56,8 @@ I am passionate about building web applications that improve the standard of liv
  </table>
 
 # Experience
-- [Amazon](https://amazon.com/) - <b>Incoming SDE Intern</b> - <b>May 2025 - August 2025</b>
+- [Manufacturing Futures Institute](https://engineering.cmu.edu/mfi/index.html) - <b>SDE Intern</b> - <b>Sep 2025 - Present</b>
+- [Amazon](https://amazon.com/) - <b>SDE Intern</b> - <b>May 2025 - August 2025</b>
 - [CMU | Master of Software Engineering](https://mse.s3d.cmu.edu/) - <b>Teaching Assistant for Software Architectures</b> - <b>Jan 2025 - Mar 2025</b>
 - [CMU | Safe AI Lab](https://safeai-lab.github.io/) - <b>Research Assistant</b> - <b>October 2024 - Dec 2024</b>
 - [Jio Platforms Limited](https://www.jio.com/)
