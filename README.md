@@ -32,26 +32,14 @@ I am passionate about building web applications that improve the standard of liv
   <tr>
     <td>Master of Information Systems Management</td>
     <td><a href="https://www.cmu.edu/">Carengie Mellon Univeristy</a></td>
-    <td>2024 - Present</td>
-    <td>3.27 GPA</td>
+    <td>2025</td>
+    <td>3.60 GPA</td>
   </tr>
   <tr>
     <td>B.E. in Computer Engineering</td>
     <td><a href="https://mu.ac.in/">Mumbai University</a></td>
     <td>2022</td>
-    <td>8.8 CGPA</td>
-  </tr>
-  <tr>
-    <td>Higher Secondary Certification</td>
-    <td><a href="http://vvhs.edu.in/">Vasant Vihar High School & Junior College</a></td>
-    <td>2018</td>
-    <td>78.77%</td>
-  </tr>
-  <tr>
-    <td>Secondary School Certification</td>
-    <td><a href="https://kaveri.edu.in/khsg/">Dr Kalmadi Shamarao High School</a></td>
-    <td>2016</td>
-    <td>87%</td>
+    <td>3.73 GPA</td>
   </tr>
  </table>
 
