@@ -44,6 +44,7 @@ I am passionate about building web applications that improve the standard of liv
  </table>
 
 # Experience
+- [DartIQ.ai](https://dartiq.ai) - <b>AI Product Intern</b> - <b>Feb 2026 - Present</b>
 - [Manufacturing Futures Institute](https://engineering.cmu.edu/mfi/index.html) - <b>SDE Intern</b> - <b>Sep 2025 - Dec 2025</b>
 - [Amazon](https://amazon.com/) - <b>SDE Intern</b> - <b>May 2025 - August 2025</b>
 - [CMU | Master of Software Engineering](https://mse.s3d.cmu.edu/) - <b>Teaching Assistant for Software Architectures</b> - <b>Jan 2025 - Mar 2025</b>
