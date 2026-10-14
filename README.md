@@ -19,19 +19,16 @@ I am passionate about building web applications that improve the standard of liv
     <th>Course</th>
     <th>School/University</th>
     <th>Year of Passing</th>
-    <th>Score</th>
   </tr>
   <tr>
     <td>Master of Information Systems Management</td>
     <td><a href="https://www.cmu.edu/">Carengie Mellon Univeristy</a></td>
     <td>2025</td>
-    <td>3.60 GPA</td>
   </tr>
   <tr>
     <td>B.E. in Computer Engineering</td>
     <td><a href="https://mu.ac.in/">Mumbai University</a></td>
     <td>2022</td>
-    <td>3.73 GPA</td>
   </tr>
  </table>
 
@@ -143,11 +140,6 @@ I am passionate about building web applications that improve the standard of liv
 - Runnerup in Tug of War
   - Gaurav Puraskar
   - Yogya Puraskar for Keyboard and Guitar
-  
-# Languages
-- <strong>Full professional proficiency:</strong> English, Hindi, Marathi
-- <strong>Native or bilingual proficiency:</strong> Kannada
-- <strong>Elementary proficiency:</strong> Tamil, Gujarati
 
 # Quick Links
 
@@ -161,9 +153,3 @@ I am passionate about building web applications that improve the standard of liv
 <a href="https://twitter.com/BelwadiAnirudh"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/believed_it_after_clicking_it/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/camera.png"></a>&nbsp;&nbsp;
 <a href="https://g.dev/anirudhbelwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/googledev.png"></a>
-
-# Support Me
-
-If you like the value I provide and want to support, maybe consider buying me a book so that I can work more on my skills and produce more value added content 🙌
-<br><br>
-<a href="https://www.buymeacoffee.com/anirudhbelwadi"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
