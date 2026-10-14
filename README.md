@@ -12,14 +12,6 @@ I graduated with a Bachelor of Engineering in Computer Engineering from Universi
 
 I am passionate about building web applications that improve the standard of living of the society, and I constantly seek to learn new technologies and skills. I have multiple certifications in Python programming and Amazon Web Services, and I have experience in IoT development, website development, and testing. I am also a musician, singer, and photographer, and I enjoy expressing my creativity through these art forms.
 
-# Status
-
-![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
-
-![GitHubStreak](https://nirzak-streak-stats.vercel.app/?user=anirudhbelwadi&theme=dark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
-
 # Education
 
 <table>
